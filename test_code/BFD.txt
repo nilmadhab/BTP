@@ -1,0 +1,40 @@
+"""
+Inputs: Let N be the number of cores. The number of functional inputs for core i is Fini
+and the number of functional outputs for core i is Fouti. Let k be the number of scan
+chains for core i. A set of internal scan chains for core i is SCi ϵ {sc1, sc2,….. sck}. The
+wrapper width for core i is Wi.
+Outputs: Ti is the test time calculated for the core i
+
+
+Lets take d695, p22810,p93791
+
+output:
+each row represents a core of benchmark circuit and each
+column represents the wrapper TAM width from 1 to 24. Output file contains test time of
+each core with varying wrapper TAM widths.
+
+
+
+Algorithm:
+Wi = number of TAMs for core i
+Lines= int Wi / 2
+#SCi = number of scan chains of core i
+ Sort the scan chains for core i in decreasing order in length
+ Select the longest scan chains as the (Lines) lines
+ While (#SCi > Lines)
+ Chain the shortest line with shortest scan chain
+ #SCi = #SCi – 1;
+ Update the length of the longest scan length
+ Sort scan chain in decreasing order
+ Add the Fini and Fouti to balance the scan chains
+i. max Si = number of Fini + longest wrapper scan chain
+ii. max So = number of Fouti + longest wrapper scan chain
+iii. min Si = number of Fini + shortest wrapper scan chain
+iv. min Si = number of Fouti + shortest wrapper scan chain
+Ti = { (1+ max ( Si, So) TP) + min( Si, So)}
+
+
+Wi varies from 1 to 24
+
+
+"""

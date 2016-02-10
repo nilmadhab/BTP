@@ -1,0 +1,1788 @@
+nil here 
+test started iteration 0
+not ok now particle number 0
+Generated... 0 
+not ok now particle number 1
+ok
+Generated 1 
+not ok now particle number 2
+ok
+Generated 2 
+not ok now particle number 3
+ok
+Generated 3 
+not ok now particle number 4
+ok
+Generated 4 
+not ok now particle number 5
+ok
+Generated 5 
+not ok now particle number 6
+ok
+Generated 6 
+not ok now particle number 7
+ok
+Generated 7 
+not ok now particle number 8
+ok
+Generated 8 
+not ok now particle number 9
+ok
+Generated 9 
+not ok now particle number 10
+ok
+Generated 10 
+not ok now particle number 11
+ok
+Generated 11 
+not ok now particle number 12
+ok
+Generated 12 
+not ok now particle number 13
+ok
+Generated 13 
+not ok now particle number 14
+ok
+Generated 14 
+not ok now particle number 15
+ok
+Generated 15 
+not ok now particle number 16
+ok
+Generated 16 
+not ok now particle number 17
+ok
+Generated 17 
+not ok now particle number 18
+ok
+Generated 18 
+not ok now particle number 19
+ok
+Generated 19 
+not ok now particle number 20
+ok
+Generated 20 
+not ok now particle number 21
+ok
+Generated 21 
+not ok now particle number 22
+ok
+Generated 22 
+not ok now particle number 23
+ok
+Generated 23 
+not ok now particle number 24
+ok
+Generated 24 
+not ok now particle number 25
+ok
+Generated 25 
+not ok now particle number 26
+ok
+Generated 26 
+not ok now particle number 27
+ok
+Generated 27 
+not ok now particle number 28
+ok
+Generated 28 
+not ok now particle number 29
+ok
+Generated 29 
+not ok now particle number 30
+ok
+Generated 30 
+not ok now particle number 31
+ok
+Generated 31 
+not ok now particle number 32
+ok
+Generated 32 
+not ok now particle number 33
+ok
+Generated 33 
+not ok now particle number 34
+ok
+Generated 34 
+not ok now particle number 35
+ok
+Generated 35 
+not ok now particle number 36
+ok
+Generated 36 
+not ok now particle number 37
+ok
+Generated 37 
+not ok now particle number 38
+ok
+Generated 38 
+not ok now particle number 39
+ok
+Generated 39 
+not ok now particle number 40
+ok
+Generated 40 
+not ok now particle number 41
+ok
+Generated 41 
+not ok now particle number 42
+ok
+Generated 42 
+not ok now particle number 43
+ok
+Generated 43 
+not ok now particle number 44
+ok
+Generated 44 
+not ok now particle number 45
+ok
+Generated 45 
+not ok now particle number 46
+ok
+Generated 46 
+not ok now particle number 47
+ok
+Generated 47 
+not ok now particle number 48
+ok
+Generated 48 
+not ok now particle number 49
+ok
+Generated 49 
+not ok now particle number 50
+ok
+Generated 50 
+not ok now particle number 51
+ok
+Generated 51 
+not ok now particle number 52
+ok
+Generated 52 
+not ok now particle number 53
+ok
+Generated 53 
+not ok now particle number 54
+ok
+Generated 54 
+not ok now particle number 55
+ok
+Generated 55 
+not ok now particle number 56
+ok
+Generated 56 
+not ok now particle number 57
+ok
+Generated 57 
+not ok now particle number 58
+ok
+Generated 58 
+not ok now particle number 59
+ok
+Generated 59 
+not ok now particle number 60
+ok
+Generated 60 
+not ok now particle number 61
+ok
+Generated 61 
+not ok now particle number 62
+ok
+Generated 62 
+not ok now particle number 63
+ok
+Generated 63 
+not ok now particle number 64
+ok
+Generated 64 
+not ok now particle number 65
+ok
+Generated 65 
+not ok now particle number 66
+ok
+Generated 66 
+not ok now particle number 67
+ok
+Generated 67 
+not ok now particle number 68
+ok
+Generated 68 
+not ok now particle number 69
+ok
+Generated 69 
+not ok now particle number 70
+ok
+Generated 70 
+not ok now particle number 71
+ok
+Generated 71 
+not ok now particle number 72
+ok
+Generated 72 
+not ok now particle number 73
+ok
+Generated 73 
+not ok now particle number 74
+ok
+Generated 74 
+not ok now particle number 75
+ok
+Generated 75 
+not ok now particle number 76
+ok
+Generated 76 
+not ok now particle number 77
+ok
+Generated 77 
+not ok now particle number 78
+ok
+Generated 78 
+not ok now particle number 79
+ok
+Generated 79 
+not ok now particle number 80
+ok
+Generated 80 
+not ok now particle number 81
+ok
+Generated 81 
+not ok now particle number 82
+ok
+Generated 82 
+not ok now particle number 83
+ok
+Generated 83 
+not ok now particle number 84
+ok
+Generated 84 
+not ok now particle number 85
+ok
+Generated 85 
+not ok now particle number 86
+ok
+Generated 86 
+not ok now particle number 87
+ok
+Generated 87 
+not ok now particle number 88
+ok
+Generated 88 
+not ok now particle number 89
+ok
+Generated 89 
+not ok now particle number 90
+ok
+Generated 90 
+not ok now particle number 91
+ok
+Generated 91 
+not ok now particle number 92
+ok
+Generated 92 
+not ok now particle number 93
+ok
+Generated 93 
+not ok now particle number 94
+ok
+Generated 94 
+not ok now particle number 95
+ok
+Generated 95 
+not ok now particle number 96
+ok
+Generated 96 
+not ok now particle number 97
+ok
+Generated 97 
+not ok now particle number 98
+ok
+Generated 98 
+not ok now particle number 99
+ok
+Generated 99 
+global best 17 ********
+global best 17********
+global best 35********
+global best 93********
+global best 93********
+
+lasttime is 1018893 for gen 4
+
+
+ the semgencount value is 1
+global best 35********
+global best 35********
+
+lasttime is 970748 for gen 6
+
+
+ the semgencount value is 1
+global best 35********
+
+lasttime is 970748 for gen 7
+
+
+ the semgencount value is 2
+global best 35********
+
+lasttime is 970748 for gen 8
+
+
+ the semgencount value is 3
+global best 35********
+
+lasttime is 970748 for gen 9
+
+
+ the semgencount value is 4
+global best 35********
+
+lasttime is 970748 for gen 10
+
+
+ the semgencount value is 5
+global best 35********
+
+lasttime is 970748 for gen 11
+
+
+ the semgencount value is 6
+global best 35********
+
+lasttime is 970748 for gen 12
+
+
+ the semgencount value is 7
+global best 62********
+global best 62********
+
+lasttime is 966944 for gen 14
+
+
+ the semgencount value is 1
+global best 62********
+
+lasttime is 966944 for gen 15
+
+
+ the semgencount value is 2
+global best 62********
+
+lasttime is 966944 for gen 16
+
+
+ the semgencount value is 3
+global best 62********
+
+lasttime is 966944 for gen 17
+
+
+ the semgencount value is 4
+global best 62********
+
+lasttime is 966944 for gen 18
+
+
+ the semgencount value is 5
+global best 62********
+
+lasttime is 966944 for gen 19
+
+
+ the semgencount value is 6
+global best 62********
+
+lasttime is 966944 for gen 20
+
+
+ the semgencount value is 7
+global best 62********
+
+lasttime is 966944 for gen 21
+
+
+ the semgencount value is 8
+global best 62********
+
+lasttime is 966944 for gen 22
+
+
+ the semgencount value is 9
+global best 62********
+
+lasttime is 966944 for gen 23
+
+
+ the semgencount value is 10
+global best 62********
+
+lasttime is 966944 for gen 24
+
+
+ the semgencount value is 11
+global best 62********
+
+lasttime is 966944 for gen 25
+
+
+ the semgencount value is 12
+global best 62********
+
+lasttime is 966944 for gen 26
+
+
+ the semgencount value is 13
+global best 62********
+
+lasttime is 966944 for gen 27
+
+
+ the semgencount value is 14
+global best 62********
+
+lasttime is 966944 for gen 28
+
+
+ the semgencount value is 15
+global best 62********
+
+lasttime is 966944 for gen 29
+
+
+ the semgencount value is 16
+global best 62********
+
+lasttime is 966944 for gen 30
+
+
+ the semgencount value is 17
+global best 62********
+
+lasttime is 966944 for gen 31
+
+
+ the semgencount value is 18
+global best 62********
+
+lasttime is 966944 for gen 32
+
+
+ the semgencount value is 19
+global best 62********
+
+lasttime is 966944 for gen 33
+
+
+ the semgencount value is 20
+global best 62********
+
+lasttime is 966944 for gen 34
+
+
+ the semgencount value is 21
+global best 62********
+
+lasttime is 966944 for gen 35
+
+
+ the semgencount value is 22
+global best 62********
+
+lasttime is 966944 for gen 36
+
+
+ the semgencount value is 23
+global best 62********
+
+lasttime is 966944 for gen 37
+
+
+ the semgencount value is 24
+global best 62********
+
+lasttime is 966944 for gen 38
+
+
+ the semgencount value is 25
+global best 62********
+
+lasttime is 966944 for gen 39
+
+
+ the semgencount value is 26
+global best 62********
+
+lasttime is 966944 for gen 40
+
+
+ the semgencount value is 27
+global best 62********
+
+lasttime is 966944 for gen 41
+
+
+ the semgencount value is 28
+global best 62********
+
+lasttime is 966944 for gen 42
+
+
+ the semgencount value is 29
+global best 62********
+
+lasttime is 966944 for gen 43
+
+
+ the semgencount value is 30
+global best 62********
+
+lasttime is 966944 for gen 44
+
+
+ the semgencount value is 31
+global best 62********
+
+lasttime is 966944 for gen 45
+
+
+ the semgencount value is 32
+global best 62********
+
+lasttime is 966944 for gen 46
+
+
+ the semgencount value is 33
+global best 62********
+
+lasttime is 966944 for gen 47
+
+
+ the semgencount value is 34
+global best 62********
+
+lasttime is 966944 for gen 48
+
+
+ the semgencount value is 35
+global best 62********
+
+lasttime is 966944 for gen 49
+
+
+ the semgencount value is 36
+global best 62********
+
+lasttime is 966944 for gen 50
+
+
+ the semgencount value is 37
+global best 62********
+
+lasttime is 966944 for gen 51
+
+
+ the semgencount value is 38
+global best 62********
+
+lasttime is 966944 for gen 52
+
+
+ the semgencount value is 39
+global best 62********
+
+lasttime is 966944 for gen 53
+
+
+ the semgencount value is 40
+global best 62********
+
+lasttime is 966944 for gen 54
+
+
+ the semgencount value is 41
+global best 62********
+
+lasttime is 966944 for gen 55
+
+
+ the semgencount value is 42
+global best 62********
+
+lasttime is 966944 for gen 56
+
+
+ the semgencount value is 43
+global best 62********
+
+lasttime is 966944 for gen 57
+
+
+ the semgencount value is 44
+global best 62********
+
+lasttime is 966944 for gen 58
+
+
+ the semgencount value is 45
+global best 62********
+
+lasttime is 966944 for gen 59
+
+
+ the semgencount value is 46
+global best 62********
+
+lasttime is 966944 for gen 60
+
+
+ the semgencount value is 47
+global best 62********
+
+lasttime is 966944 for gen 61
+
+
+ the semgencount value is 48
+global best 62********
+
+lasttime is 966944 for gen 62
+
+
+ the semgencount value is 49
+global best 62********
+
+lasttime is 966944 for gen 63
+
+
+ the semgencount value is 50
+global best 62********
+
+lasttime is 966944 for gen 64
+
+
+ the semgencount value is 51
+global best 62********
+
+lasttime is 966944 for gen 65
+
+
+ the semgencount value is 52
+global best 62********
+
+lasttime is 966944 for gen 66
+
+
+ the semgencount value is 53
+global best 62********
+
+lasttime is 966944 for gen 67
+
+
+ the semgencount value is 54
+global best 62********
+
+lasttime is 966944 for gen 68
+
+
+ the semgencount value is 55
+global best 62********
+
+lasttime is 966944 for gen 69
+
+
+ the semgencount value is 56
+global best 62********
+
+lasttime is 966944 for gen 70
+
+
+ the semgencount value is 57
+global best 62********
+
+lasttime is 966944 for gen 71
+
+
+ the semgencount value is 58
+global best 62********
+
+lasttime is 966944 for gen 72
+
+
+ the semgencount value is 59
+global best 62********
+
+lasttime is 966944 for gen 73
+
+
+ the semgencount value is 60
+global best 62********
+
+lasttime is 966944 for gen 74
+
+
+ the semgencount value is 61
+global best 62********
+
+lasttime is 966944 for gen 75
+
+
+ the semgencount value is 62
+global best 62********
+
+lasttime is 966944 for gen 76
+
+
+ the semgencount value is 63
+global best 62********
+
+lasttime is 966944 for gen 77
+
+
+ the semgencount value is 64
+global best 62********
+
+lasttime is 966944 for gen 78
+
+
+ the semgencount value is 65
+global best 62********
+
+lasttime is 966944 for gen 79
+
+
+ the semgencount value is 66
+global best 62********
+
+lasttime is 966944 for gen 80
+
+
+ the semgencount value is 67
+global best 62********
+
+lasttime is 966944 for gen 81
+
+
+ the semgencount value is 68
+global best 62********
+
+lasttime is 966944 for gen 82
+
+
+ the semgencount value is 69
+global best 62********
+
+lasttime is 966944 for gen 83
+
+
+ the semgencount value is 70
+global best 62********
+
+lasttime is 966944 for gen 84
+
+
+ the semgencount value is 71
+global best 62********
+
+lasttime is 966944 for gen 85
+
+
+ the semgencount value is 72
+global best 62********
+
+lasttime is 966944 for gen 86
+
+
+ the semgencount value is 73
+global best 62********
+
+lasttime is 966944 for gen 87
+
+
+ the semgencount value is 74
+global best 62********
+
+lasttime is 966944 for gen 88
+
+
+ the semgencount value is 75
+global best 62********
+
+lasttime is 966944 for gen 89
+
+
+ the semgencount value is 76
+global best 62********
+
+lasttime is 966944 for gen 90
+
+
+ the semgencount value is 77
+global best 62********
+
+lasttime is 966944 for gen 91
+
+
+ the semgencount value is 78
+global best 62********
+
+lasttime is 966944 for gen 92
+
+
+ the semgencount value is 79
+global best 62********
+
+lasttime is 966944 for gen 93
+
+
+ the semgencount value is 80
+global best 62********
+
+lasttime is 966944 for gen 94
+
+
+ the semgencount value is 81
+global best 62********
+
+lasttime is 966944 for gen 95
+
+
+ the semgencount value is 82
+global best 62********
+
+lasttime is 966944 for gen 96
+
+
+ the semgencount value is 83
+global best 62********
+
+lasttime is 966944 for gen 97
+
+
+ the semgencount value is 84
+global best 62********
+
+lasttime is 966944 for gen 98
+
+
+ the semgencount value is 85
+global best 62********
+
+lasttime is 966944 for gen 99
+
+
+ the semgencount value is 86
+global best 62********
+
+lasttime is 966944 for gen 100
+
+
+ the semgencount value is 87
+
+gencount is 100
+
+@@@@@@@@@@@@@@@@ Globalbestindx: 62 , mint 966944 ****************
+not ok now particle number 0
+Generated... 0 
+not ok now particle number 1
+ok
+Generated 1 
+not ok now particle number 2
+ok
+Generated 2 
+not ok now particle number 3
+ok
+Generated 3 
+not ok now particle number 4
+ok
+Generated 4 
+not ok now particle number 5
+ok
+Generated 5 
+not ok now particle number 6
+ok
+Generated 6 
+not ok now particle number 7
+ok
+Generated 7 
+not ok now particle number 8
+ok
+Generated 8 
+not ok now particle number 9
+ok
+Generated 9 
+not ok now particle number 10
+ok
+Generated 10 
+not ok now particle number 11
+ok
+Generated 11 
+not ok now particle number 12
+ok
+Generated 12 
+not ok now particle number 13
+ok
+Generated 13 
+not ok now particle number 14
+ok
+Generated 14 
+not ok now particle number 15
+ok
+Generated 15 
+not ok now particle number 16
+ok
+Generated 16 
+not ok now particle number 17
+ok
+Generated 17 
+not ok now particle number 18
+ok
+Generated 18 
+not ok now particle number 19
+ok
+Generated 19 
+not ok now particle number 20
+ok
+Generated 20 
+not ok now particle number 21
+ok
+Generated 21 
+not ok now particle number 22
+ok
+Generated 22 
+not ok now particle number 23
+ok
+Generated 23 
+not ok now particle number 24
+ok
+Generated 24 
+not ok now particle number 25
+ok
+Generated 25 
+not ok now particle number 26
+ok
+Generated 26 
+not ok now particle number 27
+ok
+Generated 27 
+not ok now particle number 28
+ok
+Generated 28 
+not ok now particle number 29
+ok
+Generated 29 
+not ok now particle number 30
+ok
+Generated 30 
+not ok now particle number 31
+ok
+Generated 31 
+not ok now particle number 32
+ok
+Generated 32 
+not ok now particle number 33
+ok
+Generated 33 
+not ok now particle number 34
+ok
+Generated 34 
+not ok now particle number 35
+ok
+Generated 35 
+not ok now particle number 36
+ok
+Generated 36 
+not ok now particle number 37
+ok
+Generated 37 
+not ok now particle number 38
+ok
+Generated 38 
+not ok now particle number 39
+ok
+Generated 39 
+not ok now particle number 40
+ok
+Generated 40 
+not ok now particle number 41
+ok
+Generated 41 
+not ok now particle number 42
+ok
+Generated 42 
+not ok now particle number 43
+ok
+Generated 43 
+not ok now particle number 44
+ok
+Generated 44 
+not ok now particle number 45
+ok
+Generated 45 
+not ok now particle number 46
+ok
+Generated 46 
+not ok now particle number 47
+ok
+Generated 47 
+not ok now particle number 48
+ok
+Generated 48 
+not ok now particle number 49
+ok
+Generated 49 
+not ok now particle number 50
+ok
+Generated 50 
+not ok now particle number 51
+ok
+Generated 51 
+not ok now particle number 52
+ok
+Generated 52 
+not ok now particle number 53
+ok
+Generated 53 
+not ok now particle number 54
+ok
+Generated 54 
+not ok now particle number 55
+ok
+Generated 55 
+not ok now particle number 56
+ok
+Generated 56 
+not ok now particle number 57
+ok
+Generated 57 
+not ok now particle number 58
+ok
+Generated 58 
+not ok now particle number 59
+ok
+Generated 59 
+not ok now particle number 60
+ok
+Generated 60 
+not ok now particle number 61
+ok
+Generated 61 
+not ok now particle number 62
+ok
+Generated 62 
+not ok now particle number 63
+ok
+Generated 63 
+not ok now particle number 64
+ok
+Generated 64 
+not ok now particle number 65
+ok
+Generated 65 
+not ok now particle number 66
+ok
+Generated 66 
+not ok now particle number 67
+ok
+Generated 67 
+not ok now particle number 68
+ok
+Generated 68 
+not ok now particle number 69
+ok
+Generated 69 
+not ok now particle number 70
+ok
+Generated 70 
+not ok now particle number 71
+ok
+Generated 71 
+not ok now particle number 72
+ok
+Generated 72 
+not ok now particle number 73
+ok
+Generated 73 
+not ok now particle number 74
+ok
+Generated 74 
+not ok now particle number 75
+ok
+Generated 75 
+not ok now particle number 76
+ok
+Generated 76 
+not ok now particle number 77
+ok
+Generated 77 
+not ok now particle number 78
+ok
+Generated 78 
+not ok now particle number 79
+ok
+Generated 79 
+not ok now particle number 80
+ok
+Generated 80 
+not ok now particle number 81
+ok
+Generated 81 
+not ok now particle number 82
+ok
+Generated 82 
+not ok now particle number 83
+ok
+Generated 83 
+not ok now particle number 84
+ok
+Generated 84 
+not ok now particle number 85
+ok
+Generated 85 
+not ok now particle number 86
+ok
+Generated 86 
+not ok now particle number 87
+ok
+Generated 87 
+not ok now particle number 88
+ok
+Generated 88 
+not ok now particle number 89
+ok
+Generated 89 
+not ok now particle number 90
+ok
+Generated 90 
+not ok now particle number 91
+ok
+Generated 91 
+not ok now particle number 92
+ok
+Generated 92 
+not ok now particle number 93
+ok
+Generated 93 
+not ok now particle number 94
+ok
+Generated 94 
+not ok now particle number 95
+ok
+Generated 95 
+not ok now particle number 96
+ok
+Generated 96 
+not ok now particle number 97
+ok
+Generated 97 
+not ok now particle number 98
+ok
+Generated 98 
+not ok now particle number 99
+ok
+Generated 99 
+global best 63 ********
+global best 63********
+global best 63********
+
+lasttime is 991297 for gen 2
+
+
+ the semgencount value is 1
+global best 63********
+
+lasttime is 991297 for gen 3
+
+
+ the semgencount value is 2
+global best 63********
+
+lasttime is 991297 for gen 4
+
+
+ the semgencount value is 3
+global best 63********
+
+lasttime is 991297 for gen 5
+
+
+ the semgencount value is 4
+global best 63********
+
+lasttime is 991297 for gen 6
+
+
+ the semgencount value is 5
+global best 63********
+
+lasttime is 991297 for gen 7
+
+
+ the semgencount value is 6
+global best 63********
+
+lasttime is 991297 for gen 8
+
+
+ the semgencount value is 7
+global best 63********
+
+lasttime is 991297 for gen 9
+
+
+ the semgencount value is 8
+global best 63********
+
+lasttime is 991297 for gen 10
+
+
+ the semgencount value is 9
+global best 63********
+
+lasttime is 991297 for gen 11
+
+
+ the semgencount value is 10
+global best 63********
+
+lasttime is 991297 for gen 12
+
+
+ the semgencount value is 11
+global best 63********
+
+lasttime is 991297 for gen 13
+
+
+ the semgencount value is 12
+global best 63********
+
+lasttime is 991297 for gen 14
+
+
+ the semgencount value is 13
+global best 63********
+
+lasttime is 991297 for gen 15
+
+
+ the semgencount value is 14
+global best 63********
+
+lasttime is 991297 for gen 16
+
+
+ the semgencount value is 15
+global best 63********
+
+lasttime is 991297 for gen 17
+
+
+ the semgencount value is 16
+global best 63********
+
+lasttime is 991297 for gen 18
+
+
+ the semgencount value is 17
+global best 63********
+
+lasttime is 991297 for gen 19
+
+
+ the semgencount value is 18
+global best 63********
+
+lasttime is 991297 for gen 20
+
+
+ the semgencount value is 19
+global best 63********
+
+lasttime is 991297 for gen 21
+
+
+ the semgencount value is 20
+global best 63********
+
+lasttime is 991297 for gen 22
+
+
+ the semgencount value is 21
+global best 63********
+
+lasttime is 991297 for gen 23
+
+
+ the semgencount value is 22
+global best 63********
+
+lasttime is 991297 for gen 24
+
+
+ the semgencount value is 23
+global best 63********
+
+lasttime is 991297 for gen 25
+
+
+ the semgencount value is 24
+global best 63********
+
+lasttime is 991297 for gen 26
+
+
+ the semgencount value is 25
+global best 63********
+
+lasttime is 991297 for gen 27
+
+
+ the semgencount value is 26
+global best 63********
+
+lasttime is 991297 for gen 28
+
+
+ the semgencount value is 27
+global best 63********
+
+lasttime is 991297 for gen 29
+
+
+ the semgencount value is 28
+global best 63********
+
+lasttime is 991297 for gen 30
+
+
+ the semgencount value is 29
+global best 11********
+global best 11********
+
+lasttime is 988363 for gen 32
+
+
+ the semgencount value is 1
+global best 11********
+
+lasttime is 988363 for gen 33
+
+
+ the semgencount value is 2
+global best 11********
+
+lasttime is 988363 for gen 34
+
+
+ the semgencount value is 3
+global best 11********
+
+lasttime is 988363 for gen 35
+
+
+ the semgencount value is 4
+global best 28********
+global best 28********
+
+lasttime is 944186 for gen 37
+
+
+ the semgencount value is 1
+global best 28********
+
+lasttime is 944186 for gen 38
+
+
+ the semgencount value is 2
+global best 28********
+
+lasttime is 944186 for gen 39
+
+
+ the semgencount value is 3
+global best 28********
+
+lasttime is 944186 for gen 40
+
+
+ the semgencount value is 4
+global best 28********
+
+lasttime is 944186 for gen 41
+
+
+ the semgencount value is 5
+global best 28********
+
+lasttime is 944186 for gen 42
+
+
+ the semgencount value is 6
+global best 28********
+
+lasttime is 944186 for gen 43
+
+
+ the semgencount value is 7
+global best 28********
+
+lasttime is 944186 for gen 44
+
+
+ the semgencount value is 8
+global best 28********
+
+lasttime is 944186 for gen 45
+
+
+ the semgencount value is 9
+global best 28********
+
+lasttime is 944186 for gen 46
+
+
+ the semgencount value is 10
+global best 28********
+
+lasttime is 944186 for gen 47
+
+
+ the semgencount value is 11
+global best 28********
+
+lasttime is 944186 for gen 48
+
+
+ the semgencount value is 12
+global best 28********
+
+lasttime is 944186 for gen 49
+
+
+ the semgencount value is 13
+global best 28********
+
+lasttime is 944186 for gen 50
+
+
+ the semgencount value is 14
+global best 28********
+
+lasttime is 944186 for gen 51
+
+
+ the semgencount value is 15
+global best 28********
+
+lasttime is 944186 for gen 52
+
+
+ the semgencount value is 16
+global best 28********
+
+lasttime is 944186 for gen 53
+
+
+ the semgencount value is 17
+global best 28********
+
+lasttime is 944186 for gen 54
+
+
+ the semgencount value is 18
+global best 28********
+
+lasttime is 944186 for gen 55
+
+
+ the semgencount value is 19
+global best 28********
+
+lasttime is 944186 for gen 56
+
+
+ the semgencount value is 20
+global best 28********
+
+lasttime is 944186 for gen 57
+
+
+ the semgencount value is 21
+global best 28********
+
+lasttime is 944186 for gen 58
+
+
+ the semgencount value is 22
+global best 28********
+
+lasttime is 944186 for gen 59
+
+
+ the semgencount value is 23
+global best 28********
+
+lasttime is 944186 for gen 60
+
+
+ the semgencount value is 24
+global best 28********
+
+lasttime is 944186 for gen 61
+
+
+ the semgencount value is 25
+global best 28********
+
+lasttime is 944186 for gen 62
+
+
+ the semgencount value is 26
+global best 28********
+
+lasttime is 944186 for gen 63
+
+
+ the semgencount value is 27
+global best 28********
+
+lasttime is 944186 for gen 64
+
+
+ the semgencount value is 28
+global best 28********
+
+lasttime is 944186 for gen 65
+
+
+ the semgencount value is 29
+global best 28********
+
+lasttime is 944186 for gen 66
+
+
+ the semgencount value is 30
+global best 28********
+
+lasttime is 944186 for gen 67
+
+
+ the semgencount value is 31
+global best 28********
+
+lasttime is 944186 for gen 68
+
+
+ the semgencount value is 32
+global best 28********
+
+lasttime is 944186 for gen 69
+
+
+ the semgencount value is 33
+global best 28********
+
+lasttime is 944186 for gen 70
+
+
+ the semgencount value is 34
+global best 28********
+
+lasttime is 944186 for gen 71
+
+
+ the semgencount value is 35
+global best 28********
+
+lasttime is 944186 for gen 72
+
+
+ the semgencount value is 36
+global best 28********
+
+lasttime is 944186 for gen 73
+
+
+ the semgencount value is 37
+global best 28********
+
+lasttime is 944186 for gen 74
+
+
+ the semgencount value is 38
+global best 28********
+
+lasttime is 944186 for gen 75
+
+
+ the semgencount value is 39
+global best 28********
+
+lasttime is 944186 for gen 76
+
+
+ the semgencount value is 40
+global best 28********
+
+lasttime is 944186 for gen 77
+
+
+ the semgencount value is 41
+global best 28********
+
+lasttime is 944186 for gen 78
+
+
+ the semgencount value is 42
+global best 28********
+
+lasttime is 944186 for gen 79
+
+
+ the semgencount value is 43
+global best 28********
+
+lasttime is 944186 for gen 80
+
+
+ the semgencount value is 44
+global best 28********
+
+lasttime is 944186 for gen 81
+
+
+ the semgencount value is 45
+global best 28********
+
+lasttime is 944186 for gen 82
+
+
+ the semgencount value is 46
+global best 28********
+
+lasttime is 944186 for gen 83
+
+
+ the semgencount value is 47
+global best 28********
+
+lasttime is 944186 for gen 84
+
+
+ the semgencount value is 48
+global best 28********
+
+lasttime is 944186 for gen 85
+
+
+ the semgencount value is 49
+global best 28********
+
+lasttime is 944186 for gen 86
+
+
+ the semgencount value is 50
+global best 28********
+
+lasttime is 944186 for gen 87
+
+
+ the semgencount value is 51
+global best 28********
+
+lasttime is 944186 for gen 88
+
+
+ the semgencount value is 52
+global best 28********
+
+lasttime is 944186 for gen 89
+
+
+ the semgencount value is 53
+global best 28********
+
+lasttime is 944186 for gen 90
+
+
+ the semgencount value is 54
+global best 28********
+
+lasttime is 944186 for gen 91
+
+
+ the semgencount value is 55
+global best 28********
+
+lasttime is 944186 for gen 92
+
+
+ the semgencount value is 56
+global best 28********
+
+lasttime is 944186 for gen 93
+
+
+ the semgencount value is 57
+global best 28********
+
+lasttime is 944186 for gen 94
+
+
+ the semgencount value is 58
+global best 28********
+
+lasttime is 944186 for gen 95
+
+
+ the semgencount value is 59
+global best 28********
+
+lasttime is 944186 for gen 96
+
+
+ the semgencount value is 60
+global best 28********
+
+lasttime is 944186 for gen 97
+
+
+ the semgencount value is 61
+global best 28********
+
+lasttime is 944186 for gen 98
+
+
+ the semgencount value is 62
+global best 28********
+
+lasttime is 944186 for gen 99
+
+
+ the semgencount value is 63
+global best 28********
+
+lasttime is 944186 for gen 100
+
+
+ the semgencount value is 64
+
+gencount is 100
+944186 
+944186
+min time is 944186
+BestParticle[i].corenum, BestParticle[i].tam_width, BestParticle[i]. starttime, BestParticle[i]. endtime,  BestParticle[i]. tsv, BestParticle[i]. freq
+{ 00, 05, 00000000, 0669664, 18 , 1.000000}
+{ 08, 05, 00000000, 0669664, 00 , 1.000000}
+{ 04, 06, 00000000, 0669329, 18 , 1.000000}
+{ 05, 04, 00000000, 0554961, 18 , 1.000000}
+{ 01, 16, 00669664, 0808827, 18 , 1.000000}
+{ 02, 01, 00669664, 0719885, 18 , 1.000000}
+{ 06, 01, 00669664, 0719885, 18 , 1.000000}
+{ 07, 01, 00669664, 0719885, 18 , 1.000000}
+{ 10, 01, 00669664, 0719885, 00 , 1.000000}
+{ 09, 17, 00808827, 0944186, 00 , 1.000000}
+{ 11, 01, 00808827, 0859048, 00 , 1.000000}
+{ 03, 02, 00808827, 0855938, 18 , 1.000000}
+
+
+after the experiment is over 
+
