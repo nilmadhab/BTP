@@ -16,8 +16,8 @@
 #define TAMSUM {629,185,263,26,151}
 #define POWER        {3704,53,54,174,198,12614,32,33,55,238,534,2497,5109,5084,56,125,3525,74,2809,4044,76,52,4179,27,42,54,1727,106,3579,54,138,244,500,4805,52,54,66,18,16,62,53,2641,35,12,24,20,34,12,24,3623,65,707,66,53,74,1357,96,101,52,1348,169,455,517,253,74,344,163,265,263,105,194,758,154,226,197,1388,6060,223,285,4572,2784,286,291,43,191,45,173,950,466,421,152,1089,93}
 #define LARGENUMBER 999999999
-#define  NO_OF_PARTICLES 25
-#define  MAX_ITERATION 25
+#define  NO_OF_PARTICLES 5000
+#define  MAX_ITERATION 1000
 #define ALPHA 0.1
 #define BETA 0.1
 #define  GAMMA 0.2
@@ -250,6 +250,9 @@ long int bin_packing(int *particle_info, int index, int genaration)
 	/*for(int i = 0; i< SIZE; i++)
 		printf("%d\t",tam_index[i]);
 	printf("\n\n\n");	*/	
+		// 0 1 2 3 4
+		// 2 1 0 -1 2
+		// 4 2 1 .5 .25
 
 		for(int i = 0; i< SIZE; i++)
 		{
@@ -760,7 +763,7 @@ void initialiseparticle(particle &object)
 	int binary;
 	int decimal;
 	object.lbesttime = LARGENUMBER;
-	cout << "inside initialiseparticle " << " " << "TSV_MAX" << " " << TSV_MAX << endl;
+	//cout << "inside initialiseparticle " << " " << "TSV_MAX" << " " << TSV_MAX << endl;
 	int flag = 1;
 	while(flag) // while TSV_constrain is not satisfied keep doing
 	{
@@ -795,8 +798,8 @@ void initialiseparticle(particle &object)
 			//freq_factor can be 4,2,0,.5,0.25
 			// excellent
 
-			//int freq_index = rand() % MAX_FREQS;
-			int freq_index = 2;
+			int freq_index = rand() % MAX_FREQS;
+			//int freq_index = 2;
 			// modified by nil
 			float freq_factor = pow(2,(FREQ_START_INDEX-freq_index));
 			//cout << freq_index << " freq_index " << freq_factor << " " << "freq_factor" <<endl;
@@ -854,7 +857,7 @@ void initialiseparticle(particle &object)
 		if(tsv_count <= TSV_MAX)
 		{
 			flag = 0;
-			cout << "tsv_count "<< tsv_count <<endl;
+			//cout << "tsv_count "<< tsv_count <<endl;
 			
 		}
 		
@@ -877,18 +880,19 @@ int particle_swarm_optimization()
 	long int lasttesttime = LARGENUMBER;
 	int samegencount=0;
 	int generation = 0;
-	cout << "NO_OF_PARTICLES  "<< " " << NO_OF_PARTICLES << endl;
+	//cout << "NO_OF_PARTICLES  "<< " " << NO_OF_PARTICLES << endl;
 	for (int i=0;i<( NO_OF_PARTICLES  ); )
 	{
-			printf("not ok now particle number %d\n" ,i);
+			//printf("not ok now particle number %d\n" ,i);
+			cout << "particle no " << i << endl;
     		initialiseparticle(partarray[i]);
-    		cout << i << " " << partarray[i].lbesttime << endl;
+    		//cout << i << " " << partarray[i].lbesttime << endl;
     		long int temp = bin_packing(partarray[i].info,i,generation);
     		// get the break point
     		if(i != 0 && temp != -1)
     		{
 	    			partarray[i].time_fitness = temp;
-	    			printf("ok\n");
+	    			//printf("ok\n");
 	    		
 				for (int ii=0;ii< NEW_PARTICLE_SIZE;ii++)
 		    	{
@@ -896,7 +900,8 @@ int particle_swarm_optimization()
 		   	 	}
 				partarray[i].lbesttime=partarray[i].time_fitness;
 
-			for ( int l = 0 ; l < i ; l ++ ) {
+			for ( int l = 0 ; l < i ; l ++ )
+			 {
 				int flag = 0 ;
 				for ( int t = 0 ; t < NEW_PARTICLE_SIZE && flag == 0; t ++ ) {
 					if ( partarray[l].info[t] != partarray[i].info[t] ) {
@@ -906,9 +911,10 @@ int particle_swarm_optimization()
 				}
 				if ( flag == 0 ) break ;
 				// what is the logic here ???
-				if ( l == i - 1 && partarray[i].time_fitness != -1) {
-					printf("Generated %d \n", i);
-					 print_array(NEW_PARTICLE_SIZE, partarray[i].info, '\n');
+				if ( l == i - 1 && partarray[i].time_fitness != -1)
+				 {
+					//printf("Generated %d \n", i);
+					 //print_array(NEW_PARTICLE_SIZE, partarray[i].info, '\n');
 					i ++ ;
 					break ;
 				}
@@ -917,7 +923,7 @@ int particle_swarm_optimization()
 		if ( i == 0 && temp != -1) 
 			{
 				partarray[i].time_fitness = temp;
-				printf("Generated... %d \n", i);
+				//printf("Generated... %d \n", i);
 				
 				for (int ii=0;ii< NEW_PARTICLE_SIZE;ii++)
 		    	{
@@ -930,9 +936,9 @@ int particle_swarm_optimization()
 	}
 	 //printf("test\n");
 	// for (int i=0;i<NO_OF_PARTICLES;i++)
-	for(int kkk = 0; kkk< NO_OF_PARTICLES; kkk++)
+	/*for(int kkk = 0; kkk< NO_OF_PARTICLES; kkk++)
         	printf("%ld fitness \t",partarray[kkk].time_fitness);
-
+*/
     particle_test = 0;
         // printf("\n\n");
 	// int generation = 0;
@@ -949,7 +955,7 @@ int particle_swarm_optimization()
                 	flag = 1;
             }
     	}
-    	printf("global best %d ********\n",globalbestIndx);
+    	//printf("global best %d ********\n",globalbestIndx);
    	 if(flag == 1)
    	 {
     		globalbest.time_fitness=temptime;
@@ -970,12 +976,14 @@ int particle_swarm_optimization()
     	int count;
     	while(gencount<MAX_ITERATION)
     	{
+    		cout << "generation no " << gencount << "^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^"<<endl; 
         	
         	for(int i=0;i<NO_OF_PARTICLES;i++)
         	{
             	   	 /*for(int kkk = 0; kkk< SIZE; kkk++)
             	   	 	printf("%lf\t",partarray[i].info[kkk]);
             	   	 printf("\n\n");*/
+            	   	 	cout << "particle no " << i << endl;
             	   	 //swaptamindex(partarray[i].info,partarray[i].lbest,globalbest.info, ALPHA,BETA); //paticle's IOpair part is updated to pbest  with prob APLHA	
             		int temp_info[SIZE];
             		for(int k = 0; k < SIZE; k++)
@@ -1025,7 +1033,7 @@ int particle_swarm_optimization()
                     
                 	}
         	}
-        	printf("global best********%d\n",globalbestIndx);
+        	//printf("global best********%d\n",globalbestIndx);
         	if (flag == 1)
    			{
       			globalbest.time_fitness=temptime;
@@ -1054,6 +1062,7 @@ int particle_swarm_optimization()
    		{	
    			samegencount = 0;
    			lasttesttime= temptime;
+   			printf("\nlasttime is %ld for gen %ld",lasttesttime, gencount);
    		}	
    		if (samegencount == 150)
    			break;	
