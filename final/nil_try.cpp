@@ -89,7 +89,7 @@ void print_array(int length, int array[], char c)
 {
 	for ( int i = 0 ; i < length ; i ++ ) 
 	{
-		//printf("%d ", array[i]);
+		printf("%d ", array[i]);
 	}
 	printf("%c", c);
 }
