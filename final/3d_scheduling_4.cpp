@@ -798,8 +798,16 @@ void initialiseparticle(particle &object)
 			//freq_factor can be 4,2,0,.5,0.25
 			// excellent
 
+
 			int freq_index = rand() % MAX_FREQS;
 			//int freq_index = 2;
+
+			//int freq_index = rand() % MAX_FREQS;
+			int freq_index = 2;
+			// 0 1 2 3 4 
+			// 2 1 0 -1 -2
+			// 4 2 1 .5 .25
+
 			// modified by nil
 			float freq_factor = pow(2,(FREQ_START_INDEX-freq_index));
 			//cout << freq_index << " freq_index " << freq_factor << " " << "freq_factor" <<endl;

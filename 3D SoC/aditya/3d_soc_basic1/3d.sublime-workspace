@@ -1,0 +1,1285 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"TAM",
+				"TAM_WIDTH_MAX"
+			],
+			[
+				"m",
+				"men"
+			],
+			[
+				"q",
+				"queue"
+			],
+			[
+				"me",
+				"messages"
+			],
+			[
+				"so",
+				"solution_id"
+			],
+			[
+				"sl",
+				"solution"
+			],
+			[
+				"sol",
+				"solution_id"
+			],
+			[
+				"BEG",
+				"BELONGS_TO"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"surve",
+				"survey_sub"
+			],
+			[
+				"solut",
+				"solution"
+			],
+			[
+				"sur",
+				"survey_sub"
+			],
+			[
+				"solu",
+				"solution"
+			],
+			[
+				"contri",
+				"contrib-list"
+			],
+			[
+				"contrib",
+				"contribdata"
+			],
+			[
+				"creater",
+				"creater_id"
+			],
+			[
+				"text",
+				"textAreaRow"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"team",
+				"teamdataprovider"
+			],
+			[
+				"jquery",
+				"jquery-ui"
+			],
+			[
+				"SimS",
+				"SimSoln"
+			],
+			[
+				"sim",
+				"simSolnForm"
+			],
+			[
+				"collab",
+				"collab_sub"
+			],
+			[
+				"ms",
+				"msg"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"fina",
+				"final_sub"
+			],
+			[
+				"simpr",
+				"simprod_sub"
+			],
+			[
+				"solution",
+				"solution_id"
+			],
+			[
+				"med",
+				"media_sub"
+			],
+			[
+				"find",
+				"findbyPk"
+			],
+			[
+				"solutio",
+				"solution_id"
+			],
+			[
+				"Surve",
+				"Surveys"
+			],
+			[
+				"for",
+				"formarr"
+			],
+			[
+				"fo",
+				"foreach	foreach …"
+			],
+			[
+				"colu",
+				"columns"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"col",
+				"columns"
+			],
+			[
+				"all",
+				"all_responses"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"fa",
+				"fake_db_vals"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"form",
+				"form_struct"
+			],
+			[
+				"form_str",
+				"form_structure"
+			],
+			[
+				"ass",
+				"assetFolder"
+			],
+			[
+				"ex",
+				"expert"
+			],
+			[
+				"data",
+				"dataProvider"
+			],
+			[
+				"border",
+				"border-spacing"
+			],
+			[
+				"soluti",
+				"solution_id"
+			],
+			[
+				"soln",
+				"soln_id"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"pro",
+				"profileFields"
+			],
+			[
+				"Pro",
+				"ProblemForm"
+			],
+			[
+				"Sol",
+				"SolutionForm"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"Subm",
+				"SubmitIdeaForm"
+			],
+			[
+				"Su",
+				"SubmitIdeaForm"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"layou",
+				"layouts"
+			],
+			[
+				"lay",
+				"layout"
+			],
+			[
+				"desc",
+				"desc_prob"
+			],
+			[
+				"name",
+				"name_prob"
+			],
+			[
+				"catego",
+				"category"
+			],
+			[
+				"categ",
+				"category"
+			],
+			[
+				"IDea",
+				"IdeaCategory"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"dash",
+				"dashboard"
+			],
+			[
+				"r",
+				"no-repeat"
+			],
+			[
+				"backgr",
+				"background-repeat"
+			],
+			[
+				"loca",
+				"localScroll"
+			],
+			[
+				"process",
+				"process-box"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"div",
+				"div"
+			],
+			[
+				"create",
+				"createUrl"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"down",
+				"downvote"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"html",
+				"htmlOptions"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"nav",
+				"navbar-inner"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"en",
+				"endif"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"ac",
+				"active"
+			],
+			[
+				"I",
+				"IdeaCategoryController"
+			],
+			[
+				"idea",
+				"idea_type"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"label",
+				"label"
+			],
+			[
+				"owner",
+				"owner_name"
+			],
+			[
+				"C",
+				"CHttpException"
+			],
+			[
+				"filter",
+				"filterChain"
+			],
+			[
+				"sc",
+				"score"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"load",
+				"loadModel"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"stat",
+				"static"
+			],
+			[
+				"Idea",
+				"IdeaCategory"
+			],
+			[
+				"defin",
+				"defined"
+			],
+			[
+				"comments",
+				"comments"
+			],
+			[
+				"ajax",
+				"actionAjaxFillTree"
+			],
+			[
+				"grid",
+				"gridDataProvider"
+			],
+			[
+				"gri",
+				"gridDataProvider"
+			],
+			[
+				"actio",
+				"action"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"menu",
+				"menuArray"
+			],
+			[
+				"men",
+				"menuArray"
+			],
+			[
+				"fora",
+				"foreach	foreach …"
+			],
+			[
+				"ra",
+				"rawData"
+			],
+			[
+				"Tb",
+				"TbMenu"
+			],
+			[
+				"wid",
+				"widgets"
+			],
+			[
+				"c",
+				"criteria"
+			],
+			[
+				"email",
+				"emailVerified"
+			],
+			[
+				"getTy",
+				"getTypeOptions"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"Exec",
+				"ExecuteCommand"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"p",
+				"paths"
+			],
+			[
+				"search",
+				"searchFrame"
+			],
+			[
+				"Dum",
+				"Dumper"
+			],
+			[
+				"item",
+				"itemcget"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "d695/100/pareto/generate.pl",
+			"settings":
+			{
+				"buffer_size": 363,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "f2126/100/pareto/generate.pl",
+			"settings":
+			{
+				"buffer_size": 360,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "p34392/100/pareto/generate.pl",
+			"settings":
+			{
+				"buffer_size": 361,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "p22810/100/pareto/generate.pl",
+			"settings":
+			{
+				"buffer_size": 363,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "p93791/100/pareto/generate.pl",
+			"settings":
+			{
+				"buffer_size": 363,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "d695/100/pareto/new_scheduling_4.cpp",
+			"settings":
+			{
+				"buffer_size": 24570,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "p22810/100/pareto/new_scheduling_4.cpp",
+			"settings":
+			{
+				"buffer_size": 24542,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "p93791/100/pareto/new_scheduling_4.cpp",
+			"settings":
+			{
+				"buffer_size": 24548,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 306.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: #include <…>"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/aditya/Desktop/3d_soc_basic/d695/100/pareto",
+		"/home/aditya/Desktop/3d_soc_basic/p22810/100",
+		"/home/aditya/Desktop/3d_soc_basic/p22810/100/pareto",
+		"/home/aditya/Desktop/3d_soc_basic/p93791",
+		"/home/aditya/Desktop/3d_soc_basic/p93791/100",
+		"/home/aditya/Desktop/3d_soc_basic/p93791/100/pareto",
+		"/home/aditya/Desktop/3d_soc_basic/3D"
+	],
+	"file_history":
+	[
+		"/home/aditya/Desktop/3d_soc_basic/f2126/100/pareto/file_read_write.cpp",
+		"/home/aditya/Desktop/3d_soc_basic/f2126/pareto_optimal.cpp",
+		"/home/aditya/Desktop/3d_soc_basic/f2126/wrapper_design_new.cpp",
+		"/home/aditya/Desktop/3d_soc_basic/p93791/100/pareto/file_read_write.cpp",
+		"/home/aditya/Desktop/3d_soc_basic/p93791/100/pareto/new_scheduling_4.cpp",
+		"/home/aditya/Desktop/3d_soc_basic/p93791/pareto_optimal.cpp",
+		"/home/aditya/Desktop/3d_soc_basic/p93791/wrapper_design_new.cpp",
+		"/home/aditya/Desktop/3d_soc_basic/p22810/100/pareto/file_read_write.cpp",
+		"/home/aditya/Desktop/3d_soc_basic/p34392/100/pareto/file_read_write.cpp",
+		"/home/aditya/Desktop/3d_soc_basic/p34392/pareto_optimal.cpp",
+		"/home/aditya/Desktop/3d_soc_basic/p34392/wrapper_design_new.cpp",
+		"/home/aditya25/Desktop/BTP/Multifrequency/perl2.pl",
+		"/home/aditya25/Dropbox/MTP/modified_wrapper_no _bidir/p34392/100/pareto/new_scheduling_4.cpp",
+		"/home/aditya25/Dropbox/MTP/modified_wrapper_no _bidir/d695/wrapper_design_new.cpp",
+		"/home/aditya25/Dropbox/MTP/modified_wrapper_no _bidir/d695/pareto_optimal.cpp",
+		"/home/aditya25/Dropbox/MTP/modified_wrapper_no _bidir/d695/100/pareto/iolist.h",
+		"/home/aditya25/Dropbox/MTP/modified_wrapper_no _bidir/d695/100/pareto/file_read_write.cpp",
+		"/home/aditya25/Dropbox/MTP/modified_wrapper_no _bidir/p22810/100/pareto/generate.pl",
+		"/home/aditya25/Dropbox/MTP/modified_wrapper_no _bidir/p22810/wrapper_design_new.cpp",
+		"/home/aditya25/Dropbox/MTP/modified_wrapper_no _bidir/p22810/pareto_optimal.cpp",
+		"/home/aditya25/Dropbox/MTP/modified_wrapper_no _bidir/p22810/100/pareto/file_read_write.cpp",
+		"/home/aditya25/Dropbox/MTP/modified_wrapper_no _bidir/p22810/100/pareto/new_scheduling_4.cpp",
+		"/home/aditya25/Dropbox/MTP/modified_wrapper_no _bidir/d695/16/final/iolist.h",
+		"/home/aditya25/Dropbox/MTP/modified_wrapper_no _bidir/d695/16/final/tam_testtime.txt",
+		"/home/aditya25/Dropbox/MTP/modified_wrapper_no _bidir/d695/d695.soc",
+		"/home/aditya25/Dropbox/MTP/modified_wrapper_no _bidir/d695/64/final/file_read_write.cpp",
+		"/home/aditya25/Dropbox/MTP/modified_wrapper_no _bidir/d695/100/pareto/new_scheduling_4.cpp",
+		"/home/aditya25/Dropbox/MTP/modified_wrapper_no _bidir/d695/100/pareto/die_testtime.txt",
+		"/home/aditya25/Dropbox/MTP/modified_wrapper_no _bidir/d695/100/pareto/file_read_write_mod.cpp",
+		"/home/aditya25/Dropbox/MTP/modified_wrapper_no _bidir/d695/16/final/new_scheduling_4.cpp",
+		"/home/aditya25/Dropbox/MTP/modified_wrapper_no _bidir/d695/100/pareto/generate.pl",
+		"/home/aditya25/Dropbox/Semester 9/DSOR/2/10EC32002_Assignment_2.c",
+		"/var/www/livequlp/protected/extensions/comment-module/extensions/gravatar/yii-gravatar/YiiGravatar.php",
+		"/var/www/livequlp/themes/themenew/views/site/index.php",
+		"/var/www/livequlp/themes/themenew/views/layouts/main.php",
+		"/var/www/livequlp/protected/config/console.php",
+		"/var/www/livequlp/protected/migrations/m130713_201034_notifications_install.php",
+		"/var/www/livequlp/protected/migrations/m140220_104548_nfy_set_unique_categories.php",
+		"/var/www/livequlp/protected/views/team/addMember.php",
+		"/var/www/livequlp/protected/controllers/SurveysController.php",
+		"/var/www/livequlp/protected/modules/user/models/User.php",
+		"/var/www/livequlp/protected/extensions/hoauth/HOAuthAction.php",
+		"/var/www/livequlp/protected/modules/user/controllers/LoginController.php",
+		"/var/www/livequlp/protected/modules/nfy/extensions/webNotifications/assets/js/main.js",
+		"/var/www/livequlp/protected/extensions/comment-module/controllers/CommentController.php",
+		"/var/www/livequlp/protected/extensions/comment-module/models/Comment.php",
+		"/var/www/livequlp/protected/extensions/comment-module/views/comment/_view.php",
+		"/var/www/livequlp/protected/extensions/comment-module/views/comment/_form.php",
+		"/var/www/livequlp/protected/extensions/EAjaxUpload/qqFileUploader.php",
+		"/var/www/livequlp/protected/extensions/comment-module/views/comment/view.tpl",
+		"/var/www/livequlp/protected/extensions/EAjaxUpload/EAjaxUploadAction.php",
+		"/var/www/livequlp/protected/extensions/EAjaxUpload/EAjaxUpload.php",
+		"/var/www/livequlp/protected/controllers/SimSolnController.php",
+		"/var/www/livequlp/parse/index.php",
+		"/var/www/livequlp/protected/components/yii-nfy/extensions/webNotifications/WebNotifications.php",
+		"/var/www/livequlp/protected/modules/nfy/components/NfyDbQueue.php",
+		"/var/www/livequlp/protected/yiic.php",
+		"/var/www/livequlp/protected/components/yii-nfy/extensions/NfyRedisConnection.php",
+		"/var/www/livequlp/themes/theme/views/layouts/main.php",
+		"/var/www/livequlp/protected/views/idea/_view.php",
+		"/var/www/livequlp/protected/modules/user/views/invitation/_form.php",
+		"/var/www/livequlp/protected/modules/user/views/invite/admin.php",
+		"/var/www/livequlp/protected/views/invite/admin.php",
+		"/var/www/livequlp/protected/modules/user/controllers/InvitationController.php",
+		"/var/www/livequlp/protected/extensions/comment-module/views/comment/index.tpl",
+		"/var/www/livequlp/protected/modules/comments/widgets/views/ECommentsListWidget.php",
+		"/var/www/livequlp/protected/modules/comments/widgets/views/ECommentsWidgetComments.php",
+		"/var/www/livequlp/protected/modules/comments/widgets/ECommentsFormWidget.php",
+		"/var/www/livequlp/protected/modules/comments/widgets/ECommentsListWidget.php",
+		"/var/www/livequlp/protected/modules/comments/widgets/ECommentsBaseWidget.php",
+		"/var/www/livequlp/protected/modules/comments/widgets/views/ECommentsFormWidget.php",
+		"/var/www/livequlp/protected/models/ProblemForm.php",
+		"/var/www/livequlp/protected/views/solution/_form.php",
+		"/var/www/livequlp/protected/views/idea/view.php.orig",
+		"/var/www/livequlp/protected/views/team/_viewMember.php",
+		"/var/www/livequlp/themes/themenew/views/layouts/main_new.php",
+		"/var/www/livequlp/themes/themenew/views/layouts/column_cocreate_new.php",
+		"/var/www/livequlp/themes/themenew/assets/css/bootstrap-tagsinput.css",
+		"/var/www/livequlp/themes/themenew/assets/css/co-creation.css.orig",
+		"/var/www/livequlp/protected/views/surveys/create.php",
+		"/var/www/livequlp/protected/views/idea/submitnew.php",
+		"/var/www/livequlp/protected/models/cURL.php",
+		"/var/www/livequlp/parse/fetch.php",
+		"/var/www/livequlp/themes/themenew/assets/css/style.css",
+		"/var/www/livequlp/jquery.formbuilder/src/example-save.php",
+		"/var/www/livequlp/jquery.formbuilder/src/example-html.php",
+		"/var/www/livequlp/jquery.formbuilder/src/fake-form-db-vals.php",
+		"/var/www/livequlp/jquery.formbuilder/src/example-submit.php",
+		"/var/www/livequlp/jquery.formbuilder/src/example-json.php",
+		"/var/www/livequlp/jquery.formbuilder/src/index.html",
+		"/var/www/livequlp/protected/views/site/contact.php",
+		"/var/www/livequlp/protected/views/simSoln/index.php",
+		"/var/www/livequlp/protected/models/Solution.php",
+		"/var/www/livequlp/protected/extensions/plupload/actions/UploadAction.php",
+		"/var/www/livequlp/protected/models/SurveyResponse.php",
+		"/var/www/livequlp/protected/models/Formbuilder.php",
+		"/var/www/livequlp/protected/controllers/IdeaCategoryController.php",
+		"/home/aditya25/.cache/.fr-l1o2S4/uploadify/MUploadify.php",
+		"/var/www/livequlp/protected/extensions/plupload/actions/DestroyAction.php",
+		"/var/www/livequlp/protected/extensions/plupload/Plupload.php",
+		"/var/www/livequlp/protected/controllers/SiteController.php",
+		"/var/www/livequlp/themes/themenew/views/layouts/column_dash.php",
+		"/var/www/livequlp/protected/views/ideaCategory/dash.php",
+		"/var/www/livequlp/protected/extensions/efineuploader/EFineUploader.php",
+		"/home/aditya25/Downloads/div_qulp/IdeaCategoryController.php",
+		"/var/www/livequlp/themes/themenew/assets/css/styles.css",
+		"/var/www/livequlp/protected/views/idea/view.php",
+		"/var/www/livequlp/protected/views/surveys/viewResponses.php",
+		"/var/www/livequlp/protected/views/surveys/view.php",
+		"/var/www/livequlp/protected/views/simSoln/_form.php",
+		"/var/www/livequlp/protected/views/team/updateMember.php",
+		"/var/www/livequlp/protected/views/team/viewMember.php",
+		"/var/www/livequlp/protected/views/team/view.php",
+		"/var/www/livequlp/protected/views/simSoln/create.php",
+		"/home/aditya25/.cache/.fr-sBZRr2/plupload/Plupload.php",
+		"/home/aditya25/.cache/.fr-F3e00N/plupload/actions/UploadAction.php",
+		"/var/www/livequlp/welcome.php",
+		"/home/aditya25/.cache/.fr-0hOypI/plupload/Plupload.php",
+		"/var/www/livequlp/protected/views/solution/_view.php",
+		"/var/www/livequlp/protected/views/solution/create.php",
+		"/var/www/livequlp/jquery.formbuilder/src/Formbuilder/Formbuilder.php",
+		"/var/www/livequlp/protected/models/Formbuilder_pdo.php",
+		"/var/www/livequlp/themes/themenew/views/layouts/column1.php",
+		"/var/www/livequlp/themes/themenew/views/layouts/column_blank.php",
+		"/media/aditya25/E23CD82F3CD7FD0B/DC/Dropbox/Qulp/cat/style.css",
+		"/var/www/livequlp/protected/models/Idea.php",
+		"/var/www/livequlp/protected/controllers/SolutionController.php",
+		"/media/aditya25/E23CD82F3CD7FD0B/DC/Dropbox/Qulp/cat/test.html"
+	],
+	"find":
+	{
+		"height": 55.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/var/www/livequlp/protected/controllers",
+			"/var/www/livequlp/protected/modules/nfy",
+			"/var/www/livequlp",
+			"/var/www/livequlp/protected/modules/user",
+			"/var/www/livequlp/protected/views",
+			"/var/www/livequlp/protected/controllers",
+			"/var/www/livequlp/protected/views",
+			"/var/www/livequlp",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"d69",
+			"p1",
+			"forest",
+			"gen",
+			"se",
+			"seg",
+			"	\n",
+			"p1",
+			"global",
+			"printf",
+			"TAM_WIDTH_MAX",
+			"64",
+			"wrap",
+			"wrapper_des",
+			"tree1",
+			"tree2",
+			"tree1",
+			"Yii::app()->user",
+			"$team",
+			"Team::model",
+			"ajaxLink",
+			"ajax",
+			"createMenuItem",
+			"widget",
+			"widgetId",
+			"queueName",
+			"Keys",
+			"createMenuItem",
+			"import",
+			"$this",
+			"subscribe",
+			"Subscribe",
+			"subscribe",
+			"log",
+			"login",
+			"Failed to check new messages",
+			"db",
+			"nfy",
+			"compon",
+			"nfy_subscription_categories",
+			"Login",
+			"Username_",
+			"REGI",
+			"checkAccess",
+			"viewMem",
+			"isuserin",
+			"wizardfin",
+			"checkAccess",
+			"$params['ideasoln'] = $model;",
+			"checkAccess",
+			"checkacces",
+			"400px",
+			"SolutionForm_demography",
+			"name_p",
+			"age",
+			"url",
+			"dashboard",
+			"left-rf",
+			"left",
+			"Add",
+			"Modal",
+			"modal",
+			"renderBodyEnd",
+			"regStatus",
+			"info",
+			"alert",
+			"TbAlert",
+			"class",
+			"progress",
+			"final",
+			"grid",
+			"gridview",
+			"Add Member",
+			"redirect",
+			"rediirect",
+			"false",
+			"captcha",
+			"Captcha",
+			"CCaptchaAction",
+			"findByPk",
+			" $this->redirect",
+			"correct",
+			"submit",
+			"Registra",
+			"captch",
+			"captcha",
+			"user",
+			"use",
+			"capt",
+			"fin",
+			"addmember",
+			"<button",
+			"user",
+			"attribute",
+			"\"));\n",
+			" ($",
+			"msg",
+			"sendMail",
+			"sendmail",
+			"sendinvite",
+			"publishidea",
+			"user",
+			"admin",
+			"AdminController",
+			"admin",
+			"media_sub",
+			"Submit",
+			"submitrev",
+			"final",
+			"submit",
+			"final",
+			"prof",
+			"sizeLimit",
+			"solution",
+			"ajaxdoc",
+			"updateAjax",
+			"ajaxsub",
+			"renderpar",
+			"solution->survey_sub",
+			"btn-primar",
+			"primar",
+			"1",
+			"survey",
+			"urlma",
+			"cont",
+			"contrib",
+			"Message",
+			"create"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"tree4",
+			"tree3",
+			"tree2",
+			"$solution",
+			"solution",
+			"solutio",
+			"solution",
+			"$model->team",
+			"black",
+			"FastSplash"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "d695/100/pareto/generate.pl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 363,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								76,
+								76
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Perl/Perl.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "f2126/100/pareto/generate.pl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 360,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Perl/Perl.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "p34392/100/pareto/generate.pl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 361,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Perl/Perl.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "p22810/100/pareto/generate.pl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 363,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								78,
+								78
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Perl/Perl.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "p93791/100/pareto/generate.pl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 363,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								78,
+								78
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Perl/Perl.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "d695/100/pareto/new_scheduling_4.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 24570,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								203,
+								203
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "p22810/100/pareto/new_scheduling_4.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 24542,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								243,
+								243
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "p93791/100/pareto/new_scheduling_4.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 24548,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								249,
+								249
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.507297028495,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 112.0
+	},
+	"project": "3d.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"hello",
+				"/home/aditya25/Desktop/Qualcomm/Perl/report.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/aditya25/Dropbox/Qulp/qulp.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 345.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
