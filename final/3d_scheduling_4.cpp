@@ -451,7 +451,7 @@ long int bin_packing(int *particle_info, int index, int genaration)
 			{
 				
 				break;
-			}
+			} // break from flag=1 line
 			
 			// scheduler[New_PArticle_size][SIZE]
 			scheduler[index][t].corenum =  max_index;
@@ -803,7 +803,7 @@ void initialiseparticle(particle &object)
 			//int freq_index = 2;
 
 			//int freq_index = rand() % MAX_FREQS;
-			int freq_index = 2;
+			//int freq_index = 2;
 			// 0 1 2 3 4 
 			// 2 1 0 -1 -2
 			// 4 2 1 .5 .25
@@ -991,6 +991,7 @@ int particle_swarm_optimization()
             	   	 /*for(int kkk = 0; kkk< SIZE; kkk++)
             	   	 	printf("%lf\t",partarray[i].info[kkk]);
             	   	 printf("\n\n");*/
+            	   	 	if (i % 500 == 0)
             	   	 	cout << "particle no " << i << endl;
             	   	 //swaptamindex(partarray[i].info,partarray[i].lbest,globalbest.info, ALPHA,BETA); //paticle's IOpair part is updated to pbest  with prob APLHA	
             		int temp_info[SIZE];
