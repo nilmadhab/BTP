@@ -1,0 +1,80 @@
+
+lasttime is 4189804 for gen 3
+
+ the semgencount value is 1
+lasttime is 4189804 for gen 4
+
+ the semgencount value is 2
+lasttime is 4189804 for gen 5
+
+ the semgencount value is 3
+lasttime is 4189804 for gen 6
+
+ the semgencount value is 4
+lasttime is 4014938 for gen 8
+
+ the semgencount value is 1
+lasttime is 4013173 for gen 10
+
+ the semgencount value is 1
+gencount is 10
+Globalbestindx: 1
+4013173
+
+lasttime is 4119146 for gen 3
+
+ the semgencount value is 1
+lasttime is 4119146 for gen 4
+
+ the semgencount value is 2
+lasttime is 4119146 for gen 5
+
+ the semgencount value is 3
+lasttime is 4119146 for gen 6
+
+ the semgencount value is 4
+lasttime is 4119146 for gen 7
+
+ the semgencount value is 5
+lasttime is 4119146 for gen 8
+
+ the semgencount value is 6
+lasttime is 4119146 for gen 9
+
+ the semgencount value is 7
+lasttime is 4119146 for gen 10
+
+ the semgencount value is 8
+gencount is 10
+Globalbestindx: 1
+4119146
+
+lasttime is 4593142 for gen 2
+
+ the semgencount value is 1
+lasttime is 4337698 for gen 4
+
+ the semgencount value is 1
+lasttime is 4337698 for gen 5
+
+ the semgencount value is 2
+lasttime is 4337698 for gen 6
+
+ the semgencount value is 3
+lasttime is 4337698 for gen 7
+
+ the semgencount value is 4
+lasttime is 4337698 for gen 8
+
+ the semgencount value is 5
+lasttime is 4337698 for gen 9
+
+ the semgencount value is 6
+gencount is 10
+Globalbestindx: 8
+4308714
+{ 4, 15, 0, 1835731 }
+{ 3, 8, 1835731, 3724309 }
+{ 1, 6, 1835731, 2839725 }
+{ 2, 13, 3724309, 4242250 }
+{ 0, 10, 4242250, 4308714 }

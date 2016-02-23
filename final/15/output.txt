@@ -1,0 +1,1437 @@
+tam_testtime.no_of_tam
+11
+10
+11
+11
+11
+####################Begin schedule##########################
+5	7	2	9	7	
+
+
+assigned_tam and testime
+10 66464
+13 539324
+7 949321
+14 1091622
+12 2290653
+no_of_core_scheduled 0**********************
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 0 0 0 0 
+max_index 4
+starttime 0
+endtime 2290653
+number_of_brk 1
+0 999999999 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 2290653 999999999 999999999 999999999 999999999  t is now 1
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 0 0 0 1 
+max_index 3
+starttime 0
+endtime 1091622
+number_of_brk 2
+0 2290653 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 2290653 999999999 999999999 999999999 999999999  t is now 2
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 0 0 1 1 
+max_index 1
+starttime 0
+endtime 539324
+number_of_brk 2
+0 2290653 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 2290653 999999999 999999999 999999999 999999999  t is now 3
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 1 0 1 1 
+max_index 2
+starttime 0
+endtime 949321
+number_of_brk 2
+0 2290653 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 2290653 999999999 999999999 999999999 999999999  t is now 4
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 1 1 1 1 
+max_index 2
+ flag is 0 break break break )))))))))))))))
+ understand upto this}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+no_of_core_scheduled 4**********************
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 1 1 1 1 
+max_index 0
+starttime 2290653
+endtime 2357117
+number_of_brk 1
+2290653 999999999 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+2290653 2357117 999999999 999999999 999999999 999999999  t is now 5
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+1 1 1 1 1 
+max_index 0
+ flag is 0 break break break )))))))))))))))
+ understand upto this}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+4 12 0 2290653
+3 14 0 1091622
+1 13 0 539324
+2 7 0 949321
+0 10 2290653 2357117
+returning default , fuck 64 2357117
+####################Begin schedule##########################
+6	0	8	7	7	
+
+
+assigned_tam and testime
+11 60454
+5 1109078
+13 517941
+12 1267313
+12 2290653
+no_of_core_scheduled 0**********************
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 0 0 0 0 
+max_index 4
+starttime 0
+endtime 2290653
+number_of_brk 1
+0 999999999 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 2290653 999999999 999999999 999999999 999999999  t is now 1
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 0 0 0 1 
+max_index 3
+starttime 0
+endtime 1267313
+number_of_brk 2
+0 2290653 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 2290653 999999999 999999999 999999999 999999999  t is now 2
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 0 0 1 1 
+max_index 2
+starttime 0
+endtime 517941
+number_of_brk 2
+0 2290653 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 2290653 999999999 999999999 999999999 999999999  t is now 3
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 0 1 1 1 
+max_index 1
+starttime 0
+endtime 1109078
+number_of_brk 2
+0 2290653 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 2290653 999999999 999999999 999999999 999999999  t is now 4
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 1 1 1 1 
+max_index 1
+ flag is 0 break break break )))))))))))))))
+ understand upto this}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+no_of_core_scheduled 4**********************
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 1 1 1 1 
+max_index 0
+starttime 2290653
+endtime 2351107
+number_of_brk 1
+2290653 999999999 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+2290653 2351107 999999999 999999999 999999999 999999999  t is now 5
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+1 1 1 1 1 
+max_index 0
+ flag is 0 break break break )))))))))))))))
+ understand upto this}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+4 12 0 2290653
+3 12 0 1267313
+2 13 0 517941
+1 5 0 1109078
+0 11 2290653 2351107
+returning default , fuck 64 2351107
+####################Begin schedule##########################
+10	8	8	10	1	
+
+
+assigned_tam and testime
+15 44332
+14 405233
+13 517941
+15 1020759
+6 4553508
+no_of_core_scheduled 0**********************
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 0 0 0 0 
+max_index 4
+starttime 0
+endtime 4553508
+number_of_brk 1
+0 999999999 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 4553508 999999999 999999999 999999999 999999999  t is now 1
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 0 0 0 1 
+max_index 3
+starttime 0
+endtime 1020759
+number_of_brk 2
+0 4553508 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 4553508 999999999 999999999 999999999 999999999  t is now 2
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 0 0 1 1 
+max_index 2
+starttime 0
+endtime 517941
+number_of_brk 2
+0 4553508 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 4553508 999999999 999999999 999999999 999999999  t is now 3
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 0 1 1 1 
+max_index 1
+starttime 0
+endtime 405233
+number_of_brk 2
+0 4553508 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 4553508 999999999 999999999 999999999 999999999  t is now 4
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 1 1 1 1 
+max_index 1
+ flag is 0 break break break )))))))))))))))
+ understand upto this}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+no_of_core_scheduled 4**********************
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 1 1 1 1 
+max_index 0
+starttime 4553508
+endtime 4597840
+number_of_brk 1
+4553508 999999999 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+4553508 4597840 999999999 999999999 999999999 999999999  t is now 5
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+1 1 1 1 1 
+max_index 0
+ flag is 0 break break break )))))))))))))))
+ understand upto this}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+4 6 0 4553508
+3 15 0 1020759
+2 13 0 517941
+1 14 0 405233
+0 15 4553508 4597840
+returning default , fuck 64 4597840
+####################Begin schedule##########################
+5	7	2	1	7	
+
+
+assigned_tam and testime
+10 66464
+13 539324
+7 949321
+6 2507417
+12 2290653
+no_of_core_scheduled 0**********************
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 0 0 0 0 
+max_index 4
+starttime 0
+endtime 2290653
+number_of_brk 1
+0 999999999 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 2290653 999999999 999999999 999999999 999999999  t is now 1
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 0 0 0 1 
+max_index 3
+starttime 0
+endtime 2507417
+number_of_brk 2
+0 2290653 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 2507417 999999999 999999999 999999999 999999999  t is now 2
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 0 0 1 1 
+max_index 1
+starttime 0
+endtime 539324
+number_of_brk 2
+0 2507417 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 2507417 999999999 999999999 999999999 999999999  t is now 3
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 1 0 1 1 
+max_index 2
+starttime 0
+endtime 949321
+number_of_brk 2
+0 2507417 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 2507417 999999999 999999999 999999999 999999999  t is now 4
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 1 1 1 1 
+max_index 0
+starttime 0
+endtime 66464
+number_of_brk 2
+0 2507417 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 2507417 999999999 999999999 999999999 999999999  t is now 5
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+1 1 1 1 1 
+max_index 0
+ flag is 0 break break break )))))))))))))))
+ understand upto this}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+4 12 0 2290653
+3 6 0 2507417
+1 13 0 539324
+2 7 0 949321
+0 10 0 66464
+returning default , fuck 64 2507417
+####################Begin schedule##########################
+6	0	8	7	7	
+
+
+assigned_tam and testime
+11 60454
+5 1109078
+13 517941
+12 1267313
+12 2290653
+no_of_core_scheduled 0**********************
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 0 0 0 0 
+max_index 4
+starttime 0
+endtime 2290653
+number_of_brk 1
+0 999999999 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 2290653 999999999 999999999 999999999 999999999  t is now 1
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 0 0 0 1 
+max_index 3
+starttime 0
+endtime 1267313
+number_of_brk 2
+0 2290653 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 2290653 999999999 999999999 999999999 999999999  t is now 2
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 0 0 1 1 
+max_index 2
+starttime 0
+endtime 517941
+number_of_brk 2
+0 2290653 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 2290653 999999999 999999999 999999999 999999999  t is now 3
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 0 1 1 1 
+max_index 1
+starttime 0
+endtime 1109078
+number_of_brk 2
+0 2290653 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 2290653 999999999 999999999 999999999 999999999  t is now 4
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 1 1 1 1 
+max_index 1
+ flag is 0 break break break )))))))))))))))
+ understand upto this}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+no_of_core_scheduled 4**********************
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 1 1 1 1 
+max_index 0
+starttime 2290653
+endtime 2351107
+number_of_brk 1
+2290653 999999999 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+2290653 2351107 999999999 999999999 999999999 999999999  t is now 5
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+1 1 1 1 1 
+max_index 0
+ flag is 0 break break break )))))))))))))))
+ understand upto this}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+4 12 0 2290653
+3 12 0 1267313
+2 13 0 517941
+1 5 0 1109078
+0 11 2290653 2351107
+returning default , fuck 64 2351107
+####################Begin schedule##########################
+10	8	8	2	1	
+
+
+assigned_tam and testime
+15 44332
+14 405233
+13 517941
+7 2154873
+6 4553508
+no_of_core_scheduled 0**********************
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 0 0 0 0 
+max_index 4
+starttime 0
+endtime 4553508
+number_of_brk 1
+0 999999999 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 4553508 999999999 999999999 999999999 999999999  t is now 1
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 0 0 0 1 
+max_index 3
+starttime 0
+endtime 2154873
+number_of_brk 2
+0 4553508 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 4553508 999999999 999999999 999999999 999999999  t is now 2
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 0 0 1 1 
+max_index 2
+starttime 0
+endtime 517941
+number_of_brk 2
+0 4553508 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 4553508 999999999 999999999 999999999 999999999  t is now 3
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 0 1 1 1 
+max_index 1
+starttime 0
+endtime 405233
+number_of_brk 2
+0 4553508 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 4553508 999999999 999999999 999999999 999999999  t is now 4
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 1 1 1 1 
+max_index 1
+ flag is 0 break break break )))))))))))))))
+ understand upto this}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+no_of_core_scheduled 4**********************
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 1 1 1 1 
+max_index 0
+starttime 4553508
+endtime 4597840
+number_of_brk 1
+4553508 999999999 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+4553508 4597840 999999999 999999999 999999999 999999999  t is now 5
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+1 1 1 1 1 
+max_index 0
+ flag is 0 break break break )))))))))))))))
+ understand upto this}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+4 6 0 4553508
+3 7 0 2154873
+2 13 0 517941
+1 14 0 405233
+0 15 4553508 4597840
+returning default , fuck 64 4597840
+####################Begin schedule##########################
+5	2	2	1	7	
+
+
+assigned_tam and testime
+10 66464
+7 809198
+7 949321
+6 2507417
+12 2290653
+no_of_core_scheduled 0**********************
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 0 0 0 0 
+max_index 4
+starttime 0
+endtime 2290653
+number_of_brk 1
+0 999999999 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 2290653 999999999 999999999 999999999 999999999  t is now 1
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 0 0 0 1 
+max_index 3
+starttime 0
+endtime 2507417
+number_of_brk 2
+0 2290653 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 2507417 999999999 999999999 999999999 999999999  t is now 2
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 0 0 1 1 
+max_index 2
+starttime 0
+endtime 949321
+number_of_brk 2
+0 2507417 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 2507417 999999999 999999999 999999999 999999999  t is now 3
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 0 1 1 1 
+max_index 1
+starttime 0
+endtime 809198
+number_of_brk 2
+0 2507417 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 2507417 999999999 999999999 999999999 999999999  t is now 4
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 1 1 1 1 
+max_index 0
+starttime 0
+endtime 66464
+number_of_brk 2
+0 2507417 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 2507417 999999999 999999999 999999999 999999999  t is now 5
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+1 1 1 1 1 
+max_index 0
+ flag is 0 break break break )))))))))))))))
+ understand upto this}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+4 12 0 2290653
+3 6 0 2507417
+2 7 0 949321
+1 7 0 809198
+0 10 0 66464
+returning default , fuck 64 2507417
+####################Begin schedule##########################
+6	0	8	7	7	
+
+
+assigned_tam and testime
+11 60454
+5 1109078
+13 517941
+12 1267313
+12 2290653
+no_of_core_scheduled 0**********************
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 0 0 0 0 
+max_index 4
+starttime 0
+endtime 2290653
+number_of_brk 1
+0 999999999 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 2290653 999999999 999999999 999999999 999999999  t is now 1
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 0 0 0 1 
+max_index 3
+starttime 0
+endtime 1267313
+number_of_brk 2
+0 2290653 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 2290653 999999999 999999999 999999999 999999999  t is now 2
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 0 0 1 1 
+max_index 2
+starttime 0
+endtime 517941
+number_of_brk 2
+0 2290653 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 2290653 999999999 999999999 999999999 999999999  t is now 3
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 0 1 1 1 
+max_index 1
+starttime 0
+endtime 1109078
+number_of_brk 2
+0 2290653 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 2290653 999999999 999999999 999999999 999999999  t is now 4
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 1 1 1 1 
+max_index 1
+ flag is 0 break break break )))))))))))))))
+ understand upto this}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+no_of_core_scheduled 4**********************
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 1 1 1 1 
+max_index 0
+starttime 2290653
+endtime 2351107
+number_of_brk 1
+2290653 999999999 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+2290653 2351107 999999999 999999999 999999999 999999999  t is now 5
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+1 1 1 1 1 
+max_index 0
+ flag is 0 break break break )))))))))))))))
+ understand upto this}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+4 12 0 2290653
+3 12 0 1267313
+2 13 0 517941
+1 5 0 1109078
+0 11 2290653 2351107
+returning default , fuck 64 2351107
+####################Begin schedule##########################
+10	8	8	2	1	
+
+
+assigned_tam and testime
+15 44332
+14 405233
+13 517941
+7 2154873
+6 4553508
+no_of_core_scheduled 0**********************
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 0 0 0 0 
+max_index 4
+starttime 0
+endtime 4553508
+number_of_brk 1
+0 999999999 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 4553508 999999999 999999999 999999999 999999999  t is now 1
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 0 0 0 1 
+max_index 3
+starttime 0
+endtime 2154873
+number_of_brk 2
+0 4553508 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 4553508 999999999 999999999 999999999 999999999  t is now 2
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 0 0 1 1 
+max_index 2
+starttime 0
+endtime 517941
+number_of_brk 2
+0 4553508 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 4553508 999999999 999999999 999999999 999999999  t is now 3
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 0 1 1 1 
+max_index 1
+starttime 0
+endtime 405233
+number_of_brk 2
+0 4553508 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 4553508 999999999 999999999 999999999 999999999  t is now 4
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 1 1 1 1 
+max_index 1
+ flag is 0 break break break )))))))))))))))
+ understand upto this}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+no_of_core_scheduled 4**********************
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 1 1 1 1 
+max_index 0
+starttime 4553508
+endtime 4597840
+number_of_brk 1
+4553508 999999999 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+4553508 4597840 999999999 999999999 999999999 999999999  t is now 5
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+1 1 1 1 1 
+max_index 0
+ flag is 0 break break break )))))))))))))))
+ understand upto this}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+4 6 0 4553508
+3 7 0 2154873
+2 13 0 517941
+1 14 0 405233
+0 15 4553508 4597840
+returning default , fuck 64 4597840
+
+lasttime is 2351107 for gen 2
+
+ the semgencount value is 1####################Begin schedule##########################
+5	3	10	1	7	
+
+
+assigned_tam and testime
+10 66464
+8 682102
+15 450253
+6 2507417
+12 2290653
+no_of_core_scheduled 0**********************
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 0 0 0 0 
+max_index 4
+starttime 0
+endtime 2290653
+number_of_brk 1
+0 999999999 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 2290653 999999999 999999999 999999999 999999999  t is now 1
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 0 0 0 1 
+max_index 3
+starttime 0
+endtime 2507417
+number_of_brk 2
+0 2290653 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 2507417 999999999 999999999 999999999 999999999  t is now 2
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 0 0 1 1 
+max_index 2
+starttime 0
+endtime 450253
+number_of_brk 2
+0 2507417 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 2507417 999999999 999999999 999999999 999999999  t is now 3
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 0 1 1 1 
+max_index 1
+starttime 0
+endtime 682102
+number_of_brk 2
+0 2507417 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 2507417 999999999 999999999 999999999 999999999  t is now 4
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 1 1 1 1 
+max_index 1
+ flag is 0 break break break )))))))))))))))
+ understand upto this}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+no_of_core_scheduled 4**********************
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 1 1 1 1 
+max_index 0
+starttime 2507417
+endtime 2573881
+number_of_brk 1
+2507417 999999999 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+2507417 2573881 999999999 999999999 999999999 999999999  t is now 5
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+1 1 1 1 1 
+max_index 0
+ flag is 0 break break break )))))))))))))))
+ understand upto this}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+4 12 0 2290653
+3 6 0 2507417
+2 15 0 450253
+1 8 0 682102
+0 10 2507417 2573881
+returning default , fuck 64 2573881
+####################Begin schedule##########################
+6	0	8	7	7	
+
+
+assigned_tam and testime
+11 60454
+5 1109078
+13 517941
+12 1267313
+12 2290653
+no_of_core_scheduled 0**********************
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 0 0 0 0 
+max_index 4
+starttime 0
+endtime 2290653
+number_of_brk 1
+0 999999999 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 2290653 999999999 999999999 999999999 999999999  t is now 1
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 0 0 0 1 
+max_index 3
+starttime 0
+endtime 1267313
+number_of_brk 2
+0 2290653 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 2290653 999999999 999999999 999999999 999999999  t is now 2
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 0 0 1 1 
+max_index 2
+starttime 0
+endtime 517941
+number_of_brk 2
+0 2290653 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 2290653 999999999 999999999 999999999 999999999  t is now 3
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 0 1 1 1 
+max_index 1
+starttime 0
+endtime 1109078
+number_of_brk 2
+0 2290653 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 2290653 999999999 999999999 999999999 999999999  t is now 4
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 1 1 1 1 
+max_index 1
+ flag is 0 break break break )))))))))))))))
+ understand upto this}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+no_of_core_scheduled 4**********************
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 1 1 1 1 
+max_index 0
+starttime 2290653
+endtime 2351107
+number_of_brk 1
+2290653 999999999 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+2290653 2351107 999999999 999999999 999999999 999999999  t is now 5
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+1 1 1 1 1 
+max_index 0
+ flag is 0 break break break )))))))))))))))
+ understand upto this}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+4 12 0 2290653
+3 12 0 1267313
+2 13 0 517941
+1 5 0 1109078
+0 11 2290653 2351107
+returning default , fuck 64 2351107
+####################Begin schedule##########################
+10	8	8	2	1	
+
+
+assigned_tam and testime
+15 44332
+14 405233
+13 517941
+7 2154873
+6 4553508
+no_of_core_scheduled 0**********************
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 0 0 0 0 
+max_index 4
+starttime 0
+endtime 4553508
+number_of_brk 1
+0 999999999 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 4553508 999999999 999999999 999999999 999999999  t is now 1
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 0 0 0 1 
+max_index 3
+starttime 0
+endtime 2154873
+number_of_brk 2
+0 4553508 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 4553508 999999999 999999999 999999999 999999999  t is now 2
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 0 0 1 1 
+max_index 2
+starttime 0
+endtime 517941
+number_of_brk 2
+0 4553508 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 4553508 999999999 999999999 999999999 999999999  t is now 3
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 0 1 1 1 
+max_index 1
+starttime 0
+endtime 405233
+number_of_brk 2
+0 4553508 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+0 4553508 999999999 999999999 999999999 999999999  t is now 4
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 1 1 1 1 
+max_index 1
+ flag is 0 break break break )))))))))))))))
+ understand upto this}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+no_of_core_scheduled 4**********************
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+0 1 1 1 1 
+max_index 0
+starttime 4553508
+endtime 4597840
+number_of_brk 1
+4553508 999999999 999999999 999999999 999999999 999999999 
+insert index 6
+modified breakpoint s 
+4553508 4597840 999999999 999999999 999999999 999999999  t is now 5
+flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+schedule_index 
+1 1 1 1 1 
+max_index 0
+ flag is 0 break break break )))))))))))))))
+ understand upto this}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+4 6 0 4553508
+3 7 0 2154873
+2 13 0 517941
+1 14 0 405233
+0 15 4553508 4597840
+returning default , fuck 64 4597840
+
+lasttime is 2351107 for gen 3
+
+ the semgencount value is 2
+gencount is 3
+Globalbestindx: 1
+2351107
+{ 4, 12, 0, 2290653 }
+{ 3, 12, 0, 1267313 }
+{ 2, 13, 0, 517941 }
+{ 1, 5, 0, 1109078 }
+{ 0, 11, 2290653, 2351107 }
