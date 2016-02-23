@@ -1,0 +1,4 @@
+assigned tam of die when no core being tested inside
+cost function
+
+how to reject particles which exceed tsv limit later

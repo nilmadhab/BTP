@@ -1,0 +1,36 @@
+---
+abstract: 'A simple parallel processing fork manager'
+author:
+  - 'Balazs Szabo (dLux)'
+build_requires:
+  Test::More: 0.80
+configure_requires:
+  ExtUtils::MakeMaker: 0
+dynamic_config: 1
+generated_by: 'ExtUtils::MakeMaker version 6.78, CPAN::Meta::Converter version 2.132661'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Parallel-ForkManager
+no_index:
+  directory:
+    - t
+    - inc
+requires:
+  File::Path: 2
+  File::Spec: 0
+  File::Temp: 0
+  POSIX: 0
+  Storable: 0
+resources:
+  repository: http://code.google.com/p/perl-parallel-forkmanager/
+version: 1.06
+x_contributors:
+  - SZABGAB
+  - 'Michael Gang'
+  - 'Noah Robin <sitz@onastick.net>'
+  - 'Chuck Hirstius <chirstius@megapathdsl.net>'
+  - 'Grant Hopwood <hopwoodg@valero.com>'
+  - 'Mark Southern <mark_southern@merck.com>'
+  - 'Ken Clarke <www.perlprogrammer.net>'
