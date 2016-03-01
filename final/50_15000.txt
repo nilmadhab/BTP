@@ -1,0 +1,8517 @@
+15000is the power_budget
+70 is TSV_MAX 
+50is TAM_WIDTH_MAX 
+test started iteration 0
+inside pso nil 
+particle no 0
+particle no 0
+particle no 0
+particle no 0
+particle no 0
+particle no 0
+particle no 0
+particle no 500
+particle no 500
+particle no 500
+particle no 500
+particle no 500
+particle no 1000
+particle no 1000
+particle no 1000
+particle no 1000
+particle no 1500
+particle no 1500
+particle no 1500
+particle no 2000
+particle no 2000
+particle no 2000
+particle no 2000
+particle no 2500
+particle no 2500
+particle no 3000
+particle no 3000
+particle no 3000
+particle no 3000
+particle no 3000
+particle no 3000
+particle no 3000
+particle no 3000
+particle no 3000
+particle no 3000
+particle no 3000
+particle no 3000
+particle no 3000
+particle no 3000
+particle no 3000
+particle no 3000
+particle no 3000
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4000
+particle no 4000
+particle no 4000
+particle no 4500
+particle no 4500
+particle no 4500
+generation no 0^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1984763 for gen 1generation no 1^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1957804 for gen 2generation no 2^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1940597 for gen 3generation no 3^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1850637 for gen 4generation no 4^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1835479 for gen 5generation no 5^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1780243 for gen 6generation no 6^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1730603 for gen 7generation no 7^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1722394 for gen 8generation no 8^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1720191 for gen 9generation no 9^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1705640 for gen 10generation no 10^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1684362 for gen 11generation no 11^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1655348 for gen 12generation no 12^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1642734 for gen 13generation no 13^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1621194 for gen 14generation no 14^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1621194 for gen 15
+
+ the semgencount value is 1generation no 15^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1598969 for gen 16generation no 16^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1552176 for gen 17generation no 17^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1545631 for gen 18generation no 18^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1537886 for gen 19generation no 19^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1537886 for gen 20
+
+ the semgencount value is 1generation no 20^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1512154 for gen 21generation no 21^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1512154 for gen 22
+
+ the semgencount value is 1generation no 22^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1512154 for gen 23
+
+ the semgencount value is 2generation no 23^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1488902 for gen 24generation no 24^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1482195 for gen 25generation no 25^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1463618 for gen 26generation no 26^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1454292 for gen 27generation no 27^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1453662 for gen 28generation no 28^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1440677 for gen 29generation no 29^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1440677 for gen 30
+
+ the semgencount value is 1generation no 30^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1440677 for gen 31
+
+ the semgencount value is 2generation no 31^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1438671 for gen 32generation no 32^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1414283 for gen 33generation no 33^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1414283 for gen 34
+
+ the semgencount value is 1generation no 34^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1414283 for gen 35
+
+ the semgencount value is 2generation no 35^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1414283 for gen 36
+
+ the semgencount value is 3generation no 36^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1413812 for gen 37generation no 37^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1403964 for gen 38generation no 38^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1396101 for gen 39generation no 39^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1396101 for gen 40
+
+ the semgencount value is 1generation no 40^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1395556 for gen 41generation no 41^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1395556 for gen 42
+
+ the semgencount value is 1generation no 42^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1390406 for gen 43generation no 43^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1382645 for gen 44generation no 44^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1382645 for gen 45
+
+ the semgencount value is 1generation no 45^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1382645 for gen 46
+
+ the semgencount value is 2generation no 46^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1382645 for gen 47
+
+ the semgencount value is 3generation no 47^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1380732 for gen 48generation no 48^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1361980 for gen 49generation no 49^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1361980 for gen 50
+
+ the semgencount value is 1generation no 50^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1361980 for gen 51
+
+ the semgencount value is 2generation no 51^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1355399 for gen 52generation no 52^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1353354 for gen 53generation no 53^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1353354 for gen 54
+
+ the semgencount value is 1generation no 54^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1350838 for gen 55generation no 55^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1350838 for gen 56
+
+ the semgencount value is 1generation no 56^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1344163 for gen 57generation no 57^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1344163 for gen 58
+
+ the semgencount value is 1generation no 58^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1344142 for gen 59generation no 59^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1340472 for gen 60generation no 60^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1340459 for gen 61generation no 61^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1337629 for gen 62generation no 62^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1337629 for gen 63
+
+ the semgencount value is 1generation no 63^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1335729 for gen 64generation no 64^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1335729 for gen 65
+
+ the semgencount value is 1generation no 65^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1335469 for gen 66generation no 66^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1335469 for gen 67
+
+ the semgencount value is 1generation no 67^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1333769 for gen 68generation no 68^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1333769 for gen 69
+
+ the semgencount value is 1generation no 69^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1333042 for gen 70generation no 70^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1321766 for gen 71generation no 71^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1321766 for gen 72
+
+ the semgencount value is 1generation no 72^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1321595 for gen 73generation no 73^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1319212 for gen 74generation no 74^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1319212 for gen 75
+
+ the semgencount value is 1generation no 75^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1318294 for gen 76generation no 76^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1318294 for gen 77
+
+ the semgencount value is 1generation no 77^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1318294 for gen 78
+
+ the semgencount value is 2generation no 78^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1318294 for gen 79
+
+ the semgencount value is 3generation no 79^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1316819 for gen 80generation no 80^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1316819 for gen 81
+
+ the semgencount value is 1generation no 81^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1310887 for gen 82generation no 82^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1310476 for gen 83generation no 83^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1310245 for gen 84generation no 84^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1309806 for gen 85generation no 85^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1309457 for gen 86generation no 86^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1308809 for gen 87generation no 87^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1308809 for gen 88
+
+ the semgencount value is 1generation no 88^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1308809 for gen 89
+
+ the semgencount value is 2generation no 89^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1307182 for gen 90generation no 90^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1306616 for gen 91generation no 91^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1306616 for gen 92
+
+ the semgencount value is 1generation no 92^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1305758 for gen 93generation no 93^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1305758 for gen 94
+
+ the semgencount value is 1generation no 94^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1305189 for gen 95generation no 95^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1305189 for gen 96
+
+ the semgencount value is 1generation no 96^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1305189 for gen 97
+
+ the semgencount value is 2generation no 97^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1305087 for gen 98generation no 98^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1304333 for gen 99generation no 99^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1304333 for gen 100
+
+ the semgencount value is 1generation no 100^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1304333 for gen 101
+
+ the semgencount value is 2generation no 101^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1304281 for gen 102generation no 102^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1304281 for gen 103
+
+ the semgencount value is 1generation no 103^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1303825 for gen 104generation no 104^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1303825 for gen 105
+
+ the semgencount value is 1generation no 105^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1303486 for gen 106generation no 106^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1303279 for gen 107generation no 107^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1303166 for gen 108generation no 108^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1302837 for gen 109generation no 109^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1302554 for gen 110generation no 110^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1302515 for gen 111generation no 111^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1302256 for gen 112generation no 112^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1302204 for gen 113generation no 113^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1302204 for gen 114
+
+ the semgencount value is 1generation no 114^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1302204 for gen 115
+
+ the semgencount value is 2generation no 115^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1302204 for gen 116
+
+ the semgencount value is 3generation no 116^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1302204 for gen 117
+
+ the semgencount value is 4generation no 117^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1302204 for gen 118
+
+ the semgencount value is 5generation no 118^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1302051 for gen 119generation no 119^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301955 for gen 120generation no 120^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301917 for gen 121generation no 121^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301917 for gen 122
+
+ the semgencount value is 1generation no 122^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301917 for gen 123
+
+ the semgencount value is 2generation no 123^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301896 for gen 124generation no 124^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301864 for gen 125generation no 125^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301864 for gen 126
+
+ the semgencount value is 1generation no 126^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301864 for gen 127
+
+ the semgencount value is 2generation no 127^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301864 for gen 128
+
+ the semgencount value is 3generation no 128^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301864 for gen 129
+
+ the semgencount value is 4generation no 129^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301864 for gen 130
+
+ the semgencount value is 5generation no 130^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301864 for gen 131
+
+ the semgencount value is 6generation no 131^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301864 for gen 132
+
+ the semgencount value is 7generation no 132^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301864 for gen 133
+
+ the semgencount value is 8generation no 133^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301864 for gen 134
+
+ the semgencount value is 9generation no 134^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301864 for gen 135
+
+ the semgencount value is 10generation no 135^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301864 for gen 136
+
+ the semgencount value is 11generation no 136^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301864 for gen 137
+
+ the semgencount value is 12generation no 137^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301796 for gen 138generation no 138^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301769 for gen 139generation no 139^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301717 for gen 140generation no 140^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301717 for gen 141
+
+ the semgencount value is 1generation no 141^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301717 for gen 142
+
+ the semgencount value is 2generation no 142^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301717 for gen 143
+
+ the semgencount value is 3generation no 143^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301617 for gen 144generation no 144^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301235 for gen 145generation no 145^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301235 for gen 146
+
+ the semgencount value is 1generation no 146^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301235 for gen 147
+
+ the semgencount value is 2generation no 147^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301235 for gen 148
+
+ the semgencount value is 3generation no 148^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301235 for gen 149
+
+ the semgencount value is 4generation no 149^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301235 for gen 150
+
+ the semgencount value is 5generation no 150^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301235 for gen 151
+
+ the semgencount value is 6generation no 151^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301235 for gen 152
+
+ the semgencount value is 7generation no 152^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301235 for gen 153
+
+ the semgencount value is 8generation no 153^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301235 for gen 154
+
+ the semgencount value is 9generation no 154^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301235 for gen 155
+
+ the semgencount value is 10generation no 155^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301235 for gen 156
+
+ the semgencount value is 11generation no 156^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301235 for gen 157
+
+ the semgencount value is 12generation no 157^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301235 for gen 158
+
+ the semgencount value is 13generation no 158^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301235 for gen 159
+
+ the semgencount value is 14generation no 159^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301235 for gen 160
+
+ the semgencount value is 15generation no 160^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 161generation no 161^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 162
+
+ the semgencount value is 1generation no 162^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 163
+
+ the semgencount value is 2generation no 163^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 164
+
+ the semgencount value is 3generation no 164^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 165
+
+ the semgencount value is 4generation no 165^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 166
+
+ the semgencount value is 5generation no 166^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 167
+
+ the semgencount value is 6generation no 167^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 168
+
+ the semgencount value is 7generation no 168^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 169
+
+ the semgencount value is 8generation no 169^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 170
+
+ the semgencount value is 9generation no 170^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 171
+
+ the semgencount value is 10generation no 171^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 172
+
+ the semgencount value is 11generation no 172^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 173
+
+ the semgencount value is 12generation no 173^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 174
+
+ the semgencount value is 13generation no 174^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 175
+
+ the semgencount value is 14generation no 175^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 176
+
+ the semgencount value is 15generation no 176^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 177
+
+ the semgencount value is 16generation no 177^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 178
+
+ the semgencount value is 17generation no 178^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 179
+
+ the semgencount value is 18generation no 179^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 180
+
+ the semgencount value is 19generation no 180^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 181
+
+ the semgencount value is 20generation no 181^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 182
+
+ the semgencount value is 21generation no 182^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 183
+
+ the semgencount value is 22generation no 183^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 184
+
+ the semgencount value is 23generation no 184^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 185
+
+ the semgencount value is 24generation no 185^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 186
+
+ the semgencount value is 25generation no 186^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 187
+
+ the semgencount value is 26generation no 187^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 188
+
+ the semgencount value is 27generation no 188^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 189
+
+ the semgencount value is 28generation no 189^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 190
+
+ the semgencount value is 29generation no 190^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 191
+
+ the semgencount value is 30generation no 191^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 192
+
+ the semgencount value is 31generation no 192^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 193
+
+ the semgencount value is 32generation no 193^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 194
+
+ the semgencount value is 33generation no 194^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 195
+
+ the semgencount value is 34generation no 195^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 196
+
+ the semgencount value is 35generation no 196^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 197
+
+ the semgencount value is 36generation no 197^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 198
+
+ the semgencount value is 37generation no 198^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 199
+
+ the semgencount value is 38generation no 199^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 200
+
+ the semgencount value is 39generation no 200^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 201
+
+ the semgencount value is 40generation no 201^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 202
+
+ the semgencount value is 41generation no 202^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 203
+
+ the semgencount value is 42generation no 203^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 204
+
+ the semgencount value is 43generation no 204^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 205
+
+ the semgencount value is 44generation no 205^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 206
+
+ the semgencount value is 45generation no 206^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 207
+
+ the semgencount value is 46generation no 207^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 208
+
+ the semgencount value is 47generation no 208^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 209
+
+ the semgencount value is 48generation no 209^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 210
+
+ the semgencount value is 49generation no 210^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 211
+
+ the semgencount value is 50generation no 211^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 212
+
+ the semgencount value is 51generation no 212^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 213
+
+ the semgencount value is 52generation no 213^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 214
+
+ the semgencount value is 53generation no 214^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 215
+
+ the semgencount value is 54generation no 215^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 216
+
+ the semgencount value is 55generation no 216^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 217
+
+ the semgencount value is 56generation no 217^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 218
+
+ the semgencount value is 57generation no 218^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 219
+
+ the semgencount value is 58generation no 219^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 220
+
+ the semgencount value is 59generation no 220^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 221
+
+ the semgencount value is 60generation no 221^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 222
+
+ the semgencount value is 61generation no 222^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 223
+
+ the semgencount value is 62generation no 223^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 224
+
+ the semgencount value is 63generation no 224^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 225
+
+ the semgencount value is 64generation no 225^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 226
+
+ the semgencount value is 65generation no 226^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 227
+
+ the semgencount value is 66generation no 227^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 228
+
+ the semgencount value is 67generation no 228^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 229
+
+ the semgencount value is 68generation no 229^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 230
+
+ the semgencount value is 69generation no 230^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 231
+
+ the semgencount value is 70generation no 231^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 232
+
+ the semgencount value is 71generation no 232^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 233
+
+ the semgencount value is 72generation no 233^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 234
+
+ the semgencount value is 73generation no 234^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 235
+
+ the semgencount value is 74generation no 235^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 236
+
+ the semgencount value is 75generation no 236^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 237
+
+ the semgencount value is 76generation no 237^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 238
+
+ the semgencount value is 77generation no 238^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 239
+
+ the semgencount value is 78generation no 239^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 240
+
+ the semgencount value is 79generation no 240^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 241
+
+ the semgencount value is 80generation no 241^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 242
+
+ the semgencount value is 81generation no 242^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 243
+
+ the semgencount value is 82generation no 243^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 244
+
+ the semgencount value is 83generation no 244^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 245
+
+ the semgencount value is 84generation no 245^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 246
+
+ the semgencount value is 85generation no 246^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 247
+
+ the semgencount value is 86generation no 247^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 248
+
+ the semgencount value is 87generation no 248^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 249
+
+ the semgencount value is 88generation no 249^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 250
+
+ the semgencount value is 89generation no 250^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 251
+
+ the semgencount value is 90generation no 251^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 252
+
+ the semgencount value is 91generation no 252^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 253
+
+ the semgencount value is 92generation no 253^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 254
+
+ the semgencount value is 93generation no 254^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 255
+
+ the semgencount value is 94generation no 255^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 256
+
+ the semgencount value is 95generation no 256^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 257
+
+ the semgencount value is 96generation no 257^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 258
+
+ the semgencount value is 97generation no 258^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 259
+
+ the semgencount value is 98generation no 259^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 260
+
+ the semgencount value is 99generation no 260^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 261
+
+ the semgencount value is 100generation no 261^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 262
+
+ the semgencount value is 101generation no 262^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 263
+
+ the semgencount value is 102generation no 263^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 264
+
+ the semgencount value is 103generation no 264^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 265
+
+ the semgencount value is 104generation no 265^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 266
+
+ the semgencount value is 105generation no 266^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 267
+
+ the semgencount value is 106generation no 267^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 268
+
+ the semgencount value is 107generation no 268^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 269
+
+ the semgencount value is 108generation no 269^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 270
+
+ the semgencount value is 109generation no 270^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 271
+
+ the semgencount value is 110generation no 271^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 272
+
+ the semgencount value is 111generation no 272^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 273
+
+ the semgencount value is 112generation no 273^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 274
+
+ the semgencount value is 113generation no 274^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 275
+
+ the semgencount value is 114generation no 275^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 276
+
+ the semgencount value is 115generation no 276^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 277
+
+ the semgencount value is 116generation no 277^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 278
+
+ the semgencount value is 117generation no 278^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 279
+
+ the semgencount value is 118generation no 279^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 280
+
+ the semgencount value is 119generation no 280^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 281
+
+ the semgencount value is 120generation no 281^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 282
+
+ the semgencount value is 121generation no 282^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 283
+
+ the semgencount value is 122generation no 283^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 284
+
+ the semgencount value is 123generation no 284^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 285
+
+ the semgencount value is 124generation no 285^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 286
+
+ the semgencount value is 125generation no 286^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 287
+
+ the semgencount value is 126generation no 287^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 288
+
+ the semgencount value is 127generation no 288^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 289
+
+ the semgencount value is 128generation no 289^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 290
+
+ the semgencount value is 129generation no 290^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 291
+
+ the semgencount value is 130generation no 291^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 292
+
+ the semgencount value is 131generation no 292^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 293
+
+ the semgencount value is 132generation no 293^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 294
+
+ the semgencount value is 133generation no 294^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 295
+
+ the semgencount value is 134generation no 295^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 296
+
+ the semgencount value is 135generation no 296^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 297
+
+ the semgencount value is 136generation no 297^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 298
+
+ the semgencount value is 137generation no 298^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 299
+
+ the semgencount value is 138generation no 299^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 300
+
+ the semgencount value is 139generation no 300^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 301
+
+ the semgencount value is 140generation no 301^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 302
+
+ the semgencount value is 141generation no 302^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 303
+
+ the semgencount value is 142generation no 303^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 304
+
+ the semgencount value is 143generation no 304^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 305
+
+ the semgencount value is 144generation no 305^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 306
+
+ the semgencount value is 145generation no 306^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 307
+
+ the semgencount value is 146generation no 307^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 308
+
+ the semgencount value is 147generation no 308^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 309
+
+ the semgencount value is 148generation no 309^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 310
+
+ the semgencount value is 149generation no 310^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1301200 for gen 311
+
+ the semgencount value is 150
+gencount is 311
+
+@@@@@@@@@@@@@@@@ Globalbestindx: 866 , mint 1301200 ****************
+inside pso nil 
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 2500
+particle no 3000
+particle no 3000
+particle no 3000
+particle no 3000
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+particle no 4500
+particle no 4500
+particle no 4500
+particle no 4500
+generation no 0^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1973321 for gen 1generation no 1^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1775579 for gen 2generation no 2^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1690584 for gen 3generation no 3^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1655422 for gen 4generation no 4^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1655180 for gen 5generation no 5^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1644531 for gen 6generation no 6^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1631562 for gen 7generation no 7^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1629980 for gen 8generation no 8^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1599993 for gen 9generation no 9^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1599993 for gen 10
+
+ the semgencount value is 1generation no 10^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1599993 for gen 11
+
+ the semgencount value is 2generation no 11^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1595972 for gen 12generation no 12^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1595972 for gen 13
+
+ the semgencount value is 1generation no 13^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1594435 for gen 14generation no 14^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1593399 for gen 15generation no 15^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1592605 for gen 16generation no 16^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1592605 for gen 17
+
+ the semgencount value is 1generation no 17^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1591327 for gen 18generation no 18^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1588978 for gen 19generation no 19^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1585965 for gen 20generation no 20^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1581146 for gen 21generation no 21^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1576582 for gen 22generation no 22^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1575481 for gen 23generation no 23^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1575130 for gen 24generation no 24^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1563286 for gen 25generation no 25^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1548004 for gen 26generation no 26^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1539654 for gen 27generation no 27^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1528161 for gen 28generation no 28^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1528161 for gen 29
+
+ the semgencount value is 1generation no 29^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1528161 for gen 30
+
+ the semgencount value is 2generation no 30^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1525981 for gen 31generation no 31^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1525981 for gen 32
+
+ the semgencount value is 1generation no 32^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1525981 for gen 33
+
+ the semgencount value is 2generation no 33^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1523999 for gen 34generation no 34^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1519349 for gen 35generation no 35^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1519349 for gen 36
+
+ the semgencount value is 1generation no 36^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1519349 for gen 37
+
+ the semgencount value is 2generation no 37^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1513348 for gen 38generation no 38^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1513348 for gen 39
+
+ the semgencount value is 1generation no 39^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1513348 for gen 40
+
+ the semgencount value is 2generation no 40^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1513348 for gen 41
+
+ the semgencount value is 3generation no 41^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1513348 for gen 42
+
+ the semgencount value is 4generation no 42^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1507960 for gen 43generation no 43^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1506922 for gen 44generation no 44^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1503329 for gen 45generation no 45^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1503329 for gen 46
+
+ the semgencount value is 1generation no 46^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1500612 for gen 47generation no 47^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1497658 for gen 48generation no 48^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1497658 for gen 49
+
+ the semgencount value is 1generation no 49^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1495214 for gen 50generation no 50^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1494458 for gen 51generation no 51^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1494458 for gen 52
+
+ the semgencount value is 1generation no 52^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1494458 for gen 53
+
+ the semgencount value is 2generation no 53^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1494112 for gen 54generation no 54^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1492722 for gen 55generation no 55^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1486267 for gen 56generation no 56^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1486267 for gen 57
+
+ the semgencount value is 1generation no 57^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1485537 for gen 58generation no 58^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1485471 for gen 59generation no 59^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1485471 for gen 60
+
+ the semgencount value is 1generation no 60^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1483952 for gen 61generation no 61^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1483795 for gen 62generation no 62^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1483795 for gen 63
+
+ the semgencount value is 1generation no 63^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1483795 for gen 64
+
+ the semgencount value is 2generation no 64^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1483658 for gen 65generation no 65^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1483658 for gen 66
+
+ the semgencount value is 1generation no 66^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1483658 for gen 67
+
+ the semgencount value is 2generation no 67^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1483462 for gen 68generation no 68^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1483426 for gen 69generation no 69^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1483426 for gen 70
+
+ the semgencount value is 1generation no 70^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1482676 for gen 71generation no 71^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1482676 for gen 72
+
+ the semgencount value is 1generation no 72^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1482676 for gen 73
+
+ the semgencount value is 2generation no 73^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1482593 for gen 74generation no 74^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1482423 for gen 75generation no 75^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1482317 for gen 76generation no 76^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1481750 for gen 77generation no 77^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1481649 for gen 78generation no 78^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1481624 for gen 79generation no 79^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1481531 for gen 80generation no 80^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1481296 for gen 81generation no 81^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1481181 for gen 82generation no 82^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1480989 for gen 83generation no 83^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1480989 for gen 84
+
+ the semgencount value is 1generation no 84^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1480921 for gen 85generation no 85^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1480838 for gen 86generation no 86^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1480783 for gen 87generation no 87^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1480039 for gen 88generation no 88^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1480039 for gen 89
+
+ the semgencount value is 1generation no 89^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1479933 for gen 90generation no 90^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1479933 for gen 91
+
+ the semgencount value is 1generation no 91^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1479933 for gen 92
+
+ the semgencount value is 2generation no 92^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1479932 for gen 93generation no 93^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1479784 for gen 94generation no 94^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1477263 for gen 95generation no 95^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1476741 for gen 96generation no 96^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1476487 for gen 97generation no 97^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1476351 for gen 98generation no 98^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1476323 for gen 99generation no 99^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1476323 for gen 100
+
+ the semgencount value is 1generation no 100^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1475792 for gen 101generation no 101^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1475453 for gen 102generation no 102^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1475090 for gen 103generation no 103^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1474623 for gen 104generation no 104^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1474623 for gen 105
+
+ the semgencount value is 1generation no 105^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1474623 for gen 106
+
+ the semgencount value is 2generation no 106^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1474593 for gen 107generation no 107^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1474590 for gen 108generation no 108^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1474459 for gen 109generation no 109^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1474401 for gen 110generation no 110^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1474401 for gen 111
+
+ the semgencount value is 1generation no 111^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1474327 for gen 112generation no 112^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1472210 for gen 113generation no 113^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1464478 for gen 114generation no 114^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1464168 for gen 115generation no 115^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1464168 for gen 116
+
+ the semgencount value is 1generation no 116^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1461232 for gen 117generation no 117^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1461232 for gen 118
+
+ the semgencount value is 1generation no 118^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1461053 for gen 119generation no 119^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1461053 for gen 120
+
+ the semgencount value is 1generation no 120^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1461053 for gen 121
+
+ the semgencount value is 2generation no 121^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1461053 for gen 122
+
+ the semgencount value is 3generation no 122^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1461020 for gen 123generation no 123^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1461020 for gen 124
+
+ the semgencount value is 1generation no 124^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1460671 for gen 125generation no 125^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1460482 for gen 126generation no 126^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1460482 for gen 127
+
+ the semgencount value is 1generation no 127^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1460482 for gen 128
+
+ the semgencount value is 2generation no 128^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1460415 for gen 129generation no 129^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1460415 for gen 130
+
+ the semgencount value is 1generation no 130^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1460248 for gen 131generation no 131^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1459602 for gen 132generation no 132^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1459337 for gen 133generation no 133^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1459226 for gen 134generation no 134^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1459226 for gen 135
+
+ the semgencount value is 1generation no 135^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1459175 for gen 136generation no 136^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1459168 for gen 137generation no 137^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1459139 for gen 138generation no 138^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1459120 for gen 139generation no 139^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1459067 for gen 140generation no 140^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458960 for gen 141generation no 141^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458960 for gen 142
+
+ the semgencount value is 1generation no 142^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458960 for gen 143
+
+ the semgencount value is 2generation no 143^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458960 for gen 144
+
+ the semgencount value is 3generation no 144^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458960 for gen 145
+
+ the semgencount value is 4generation no 145^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458960 for gen 146
+
+ the semgencount value is 5generation no 146^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458960 for gen 147
+
+ the semgencount value is 6generation no 147^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458960 for gen 148
+
+ the semgencount value is 7generation no 148^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458960 for gen 149
+
+ the semgencount value is 8generation no 149^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458935 for gen 150generation no 150^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458618 for gen 151generation no 151^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458511 for gen 152generation no 152^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458511 for gen 153
+
+ the semgencount value is 1generation no 153^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458511 for gen 154
+
+ the semgencount value is 2generation no 154^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458511 for gen 155
+
+ the semgencount value is 3generation no 155^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458511 for gen 156
+
+ the semgencount value is 4generation no 156^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458511 for gen 157
+
+ the semgencount value is 5generation no 157^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458511 for gen 158
+
+ the semgencount value is 6generation no 158^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458511 for gen 159
+
+ the semgencount value is 7generation no 159^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458511 for gen 160
+
+ the semgencount value is 8generation no 160^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 161generation no 161^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 162
+
+ the semgencount value is 1generation no 162^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 163
+
+ the semgencount value is 2generation no 163^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 164
+
+ the semgencount value is 3generation no 164^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 165
+
+ the semgencount value is 4generation no 165^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 166
+
+ the semgencount value is 5generation no 166^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 167
+
+ the semgencount value is 6generation no 167^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 168
+
+ the semgencount value is 7generation no 168^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 169
+
+ the semgencount value is 8generation no 169^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 170
+
+ the semgencount value is 9generation no 170^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 171
+
+ the semgencount value is 10generation no 171^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 172
+
+ the semgencount value is 11generation no 172^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 173
+
+ the semgencount value is 12generation no 173^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 174
+
+ the semgencount value is 13generation no 174^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 175
+
+ the semgencount value is 14generation no 175^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 176
+
+ the semgencount value is 15generation no 176^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 177
+
+ the semgencount value is 16generation no 177^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 178
+
+ the semgencount value is 17generation no 178^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 179
+
+ the semgencount value is 18generation no 179^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 180
+
+ the semgencount value is 19generation no 180^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 181
+
+ the semgencount value is 20generation no 181^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 182
+
+ the semgencount value is 21generation no 182^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 183
+
+ the semgencount value is 22generation no 183^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 184
+
+ the semgencount value is 23generation no 184^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 185
+
+ the semgencount value is 24generation no 185^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 186
+
+ the semgencount value is 25generation no 186^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 187
+
+ the semgencount value is 26generation no 187^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 188
+
+ the semgencount value is 27generation no 188^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 189
+
+ the semgencount value is 28generation no 189^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 190
+
+ the semgencount value is 29generation no 190^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 191
+
+ the semgencount value is 30generation no 191^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 192
+
+ the semgencount value is 31generation no 192^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 193
+
+ the semgencount value is 32generation no 193^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 194
+
+ the semgencount value is 33generation no 194^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 195
+
+ the semgencount value is 34generation no 195^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 196
+
+ the semgencount value is 35generation no 196^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 197
+
+ the semgencount value is 36generation no 197^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 198
+
+ the semgencount value is 37generation no 198^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 199
+
+ the semgencount value is 38generation no 199^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 200
+
+ the semgencount value is 39generation no 200^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 201
+
+ the semgencount value is 40generation no 201^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 202
+
+ the semgencount value is 41generation no 202^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 203
+
+ the semgencount value is 42generation no 203^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 204
+
+ the semgencount value is 43generation no 204^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 205
+
+ the semgencount value is 44generation no 205^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 206
+
+ the semgencount value is 45generation no 206^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 207
+
+ the semgencount value is 46generation no 207^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 208
+
+ the semgencount value is 47generation no 208^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 209
+
+ the semgencount value is 48generation no 209^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 210
+
+ the semgencount value is 49generation no 210^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 211
+
+ the semgencount value is 50generation no 211^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 212
+
+ the semgencount value is 51generation no 212^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 213
+
+ the semgencount value is 52generation no 213^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 214
+
+ the semgencount value is 53generation no 214^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 215
+
+ the semgencount value is 54generation no 215^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 216
+
+ the semgencount value is 55generation no 216^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 217
+
+ the semgencount value is 56generation no 217^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 218
+
+ the semgencount value is 57generation no 218^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 219
+
+ the semgencount value is 58generation no 219^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 220
+
+ the semgencount value is 59generation no 220^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 221
+
+ the semgencount value is 60generation no 221^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 222
+
+ the semgencount value is 61generation no 222^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 223
+
+ the semgencount value is 62generation no 223^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 224
+
+ the semgencount value is 63generation no 224^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 225
+
+ the semgencount value is 64generation no 225^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 226
+
+ the semgencount value is 65generation no 226^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 227
+
+ the semgencount value is 66generation no 227^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 228
+
+ the semgencount value is 67generation no 228^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 229
+
+ the semgencount value is 68generation no 229^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 230
+
+ the semgencount value is 69generation no 230^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 231
+
+ the semgencount value is 70generation no 231^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 232
+
+ the semgencount value is 71generation no 232^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 233
+
+ the semgencount value is 72generation no 233^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 234
+
+ the semgencount value is 73generation no 234^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 235
+
+ the semgencount value is 74generation no 235^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 236
+
+ the semgencount value is 75generation no 236^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 237
+
+ the semgencount value is 76generation no 237^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 238
+
+ the semgencount value is 77generation no 238^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 239
+
+ the semgencount value is 78generation no 239^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 240
+
+ the semgencount value is 79generation no 240^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 241
+
+ the semgencount value is 80generation no 241^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 242
+
+ the semgencount value is 81generation no 242^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 243
+
+ the semgencount value is 82generation no 243^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 244
+
+ the semgencount value is 83generation no 244^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 245
+
+ the semgencount value is 84generation no 245^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 246
+
+ the semgencount value is 85generation no 246^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 247
+
+ the semgencount value is 86generation no 247^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 248
+
+ the semgencount value is 87generation no 248^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 249
+
+ the semgencount value is 88generation no 249^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 250
+
+ the semgencount value is 89generation no 250^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 251
+
+ the semgencount value is 90generation no 251^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 252
+
+ the semgencount value is 91generation no 252^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 253
+
+ the semgencount value is 92generation no 253^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 254
+
+ the semgencount value is 93generation no 254^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 255
+
+ the semgencount value is 94generation no 255^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 256
+
+ the semgencount value is 95generation no 256^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 257
+
+ the semgencount value is 96generation no 257^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 258
+
+ the semgencount value is 97generation no 258^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 259
+
+ the semgencount value is 98generation no 259^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 260
+
+ the semgencount value is 99generation no 260^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 261
+
+ the semgencount value is 100generation no 261^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 262
+
+ the semgencount value is 101generation no 262^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 263
+
+ the semgencount value is 102generation no 263^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 264
+
+ the semgencount value is 103generation no 264^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 265
+
+ the semgencount value is 104generation no 265^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 266
+
+ the semgencount value is 105generation no 266^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 267
+
+ the semgencount value is 106generation no 267^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 268
+
+ the semgencount value is 107generation no 268^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 269
+
+ the semgencount value is 108generation no 269^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 270
+
+ the semgencount value is 109generation no 270^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 271
+
+ the semgencount value is 110generation no 271^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 272
+
+ the semgencount value is 111generation no 272^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 273
+
+ the semgencount value is 112generation no 273^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 274
+
+ the semgencount value is 113generation no 274^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 275
+
+ the semgencount value is 114generation no 275^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 276
+
+ the semgencount value is 115generation no 276^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 277
+
+ the semgencount value is 116generation no 277^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 278
+
+ the semgencount value is 117generation no 278^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 279
+
+ the semgencount value is 118generation no 279^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 280
+
+ the semgencount value is 119generation no 280^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 281
+
+ the semgencount value is 120generation no 281^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 282
+
+ the semgencount value is 121generation no 282^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 283
+
+ the semgencount value is 122generation no 283^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 284
+
+ the semgencount value is 123generation no 284^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 285
+
+ the semgencount value is 124generation no 285^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 286
+
+ the semgencount value is 125generation no 286^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 287
+
+ the semgencount value is 126generation no 287^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 288
+
+ the semgencount value is 127generation no 288^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 289
+
+ the semgencount value is 128generation no 289^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 290
+
+ the semgencount value is 129generation no 290^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 291
+
+ the semgencount value is 130generation no 291^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 292
+
+ the semgencount value is 131generation no 292^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 293
+
+ the semgencount value is 132generation no 293^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 294
+
+ the semgencount value is 133generation no 294^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 295
+
+ the semgencount value is 134generation no 295^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 296
+
+ the semgencount value is 135generation no 296^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 297
+
+ the semgencount value is 136generation no 297^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 298
+
+ the semgencount value is 137generation no 298^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 299
+
+ the semgencount value is 138generation no 299^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 300
+
+ the semgencount value is 139generation no 300^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 301
+
+ the semgencount value is 140generation no 301^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 302
+
+ the semgencount value is 141generation no 302^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 303
+
+ the semgencount value is 142generation no 303^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 304
+
+ the semgencount value is 143generation no 304^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 305
+
+ the semgencount value is 144generation no 305^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 306
+
+ the semgencount value is 145generation no 306^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 307
+
+ the semgencount value is 146generation no 307^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 308
+
+ the semgencount value is 147generation no 308^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 309
+
+ the semgencount value is 148generation no 309^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 310
+
+ the semgencount value is 149generation no 310^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+particle no 0
+particle no 500
+particle no 1000
+particle no 1500
+particle no 2000
+particle no 2500
+particle no 3000
+particle no 3500
+particle no 4000
+particle no 4500
+
+lasttime is 1458486 for gen 311
+
+ the semgencount value is 150
+gencount is 311
+1458486 
+1301200
+BestParticle[i].corenum, BestParticle[i].tam_width, BestParticle[i]. starttime, BestParticle[i]. endtime,  BestParticle[i]. tsv, BestParticle[i]. freq
+{ 33, 8, 0, 587609, 17 , 1.000000}
+{ 36, 3, 0, 542802, 17 , 0.500000}
+{ 39, 4, 0, 516380, 17 , 0.250000}
+{ 0, 27, 0, 501836, 29 , 0.250000}
+{ 41, 10, 0, 495948, 17 , 0.500000}
+{ 13, 16, 0, 493736, 29 , 0.250000}
+{ 92, 1, 0, 480752, 0 , 0.250000}
+{ 5, 39, 0, 447196, 29 , 0.500000}
+{ 9, 2, 0, 314408, 29 , 0.500000}
+{ 50, 3, 0, 271401, 17 , 1.000000}
+{ 4, 5, 0, 269620, 29 , 0.500000}
+{ 24, 3, 0, 118296, 29 , 0.250000}
+{ 22, 37, 587609, 908145, 29 , 0.250000}
+{ 49, 9, 587609, 898690, 17 , 2.000000}
+{ 19, 22, 587609, 888681, 29 , 0.500000}
+{ 75, 9, 587609, 838165, 16 , 0.250000}
+{ 53, 2, 587609, 836301, 16 , 0.250000}
+{ 35, 1, 587609, 828654, 17 , 1.000000}
+{ 55, 1, 587609, 827949, 16 , 2.000000}
+{ 31, 2, 587609, 795811, 29 , 2.000000}
+{ 32, 1, 587609, 777640, 17 , 1.000000}
+{ 57, 5, 587609, 777165, 16 , 0.250000}
+{ 10, 3, 587609, 769485, 29 , 0.250000}
+{ 27, 3, 587609, 647869, 29 , 0.250000}
+{ 2, 3, 587609, 626529, 29 , 0.250000}
+{ 30, 5, 587609, 612961, 29 , 0.250000}
+{ 38, 1, 587609, 597865, 17 , 0.500000}
+{ 17, 2, 587609, 594565, 29 , 0.250000}
+{ 79, 8, 908145, 1086689, 8 , 2.000000}
+{ 71, 7, 908145, 1084291, 16 , 0.500000}
+{ 46, 3, 908145, 1067997, 17 , 0.250000}
+{ 52, 1, 908145, 1056041, 16 , 4.000000}
+{ 12, 17, 908145, 1031384, 29 , 1.000000}
+{ 34, 5, 908145, 1020053, 17 , 0.250000}
+{ 42, 5, 908145, 963857, 17 , 1.000000}
+{ 23, 3, 908145, 929651, 29 , 1.000000}
+{ 6, 4, 908145, 914529, 29 , 0.250000}
+{ 76, 8, 1086689, 1226009, 16 , 2.000000}
+{ 88, 3, 1086689, 1211185, 0 , 0.500000}
+{ 26, 33, 1086689, 1210483, 29 , 1.000000}
+{ 81, 1, 1086689, 1187131, 8 , 0.500000}
+{ 90, 2, 1086689, 1131737, 0 , 0.250000}
+{ 65, 1, 1086689, 1125135, 16 , 0.500000}
+{ 73, 2, 1086689, 1113045, 16 , 0.250000}
+{ 40, 2, 1086689, 1106821, 17 , 0.250000}
+{ 80, 16, 1226009, 1295590, 8 , 2.000000}
+{ 28, 18, 1226009, 1290883, 29 , 1.000000}
+{ 60, 1, 1226009, 1246247, 16 , 0.500000}
+{ 51, 4, 1295590, 1360827, 16 , 4.000000}
+{ 18, 17, 1295590, 1358256, 29 , 1.000000}
+{ 68, 1, 1295590, 1355080, 16 , 4.000000}
+{ 59, 9, 1295590, 1346981, 16 , 1.000000}
+{ 58, 2, 1295590, 1345150, 16 , 1.000000}
+{ 44, 4, 1295590, 1321196, 17 , 0.500000}
+{ 74, 1, 1295590, 1309712, 16 , 0.500000}
+{ 11, 16, 1360827, 1416879, 29 , 2.000000}
+{ 62, 6, 1360827, 1409327, 16 , 0.250000}
+{ 87, 2, 1360827, 1408823, 0 , 2.000000}
+{ 86, 2, 1360827, 1387535, 0 , 0.500000}
+{ 82, 1, 1360827, 1385937, 8 , 2.000000}
+{ 89, 3, 1360827, 1382786, 0 , 1.000000}
+{ 64, 2, 1360827, 1376957, 16 , 0.500000}
+{ 14, 1, 1360827, 1373821, 29 , 1.000000}
+{ 85, 1, 1360827, 1370943, 0 , 0.500000}
+{ 37, 2, 1360827, 1367706, 17 , 2.000000}
+{ 29, 3, 1360827, 1366995, 29 , 0.500000}
+{ 16, 11, 1416879, 1449266, 29 , 4.000000}
+{ 72, 2, 1416879, 1430183, 16 , 0.500000}
+{ 70, 2, 1416879, 1426503, 16 , 2.000000}
+{ 67, 4, 1416879, 1426235, 16 , 0.250000}
+{ 61, 7, 1449266, 1454348, 16 , 2.000000}
+{ 45, 3, 1449266, 1453592, 17 , 0.500000}
+{ 8, 1, 1449266, 1453507, 29 , 2.000000}
+{ 48, 4, 1449266, 1453197, 17 , 1.000000}
+{ 84, 4, 1449266, 1453162, 0 , 1.000000}
+{ 15, 20, 1449266, 1452438, 29 , 1.000000}
+{ 78, 1, 1449266, 1452410, 16 , 4.000000}
+{ 43, 4, 1449266, 1451346, 17 , 0.250000}
+{ 56, 16, 1454348, 1456486, 16 , 2.000000}
+{ 7, 3, 1454348, 1455411, 29 , 2.000000}
+{ 20, 5, 1454348, 1455069, 29 , 1.000000}
+{ 47, 2, 1454348, 1454670, 17 , 2.000000}
+{ 91, 8, 1456486, 1457312, 0 , 4.000000}
+{ 69, 4, 1456486, 1457134, 16 , 4.000000}
+{ 54, 12, 1457312, 1458091, 16 , 2.000000}
+{ 25, 21, 1457312, 1457892, 29 , 0.500000}
+{ 3, 13, 1457312, 1457596, 29 , 0.500000}
+{ 66, 2, 1457312, 1457559, 16 , 4.000000}
+{ 1, 8, 1458091, 1458380, 29 , 4.000000}
+{ 21, 12, 1458091, 1458304, 29 , 1.000000}
+{ 77, 2, 1458091, 1458284, 16 , 2.000000}
+{ 63, 4, 1458380, 1458486, 16 , 2.000000}
+{ 83, 2, 1458380, 1458435, 0 , 4.000000}

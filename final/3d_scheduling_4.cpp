@@ -5,7 +5,7 @@
 # include <time.h>
 #include <iostream>
 //# include "iolist.h"
-#define TAM_WIDTH_MAX 40
+#define TAM_WIDTH_MAX 100
 #define BIT_LENGTH 6
 #define TSV_MAX 70
 #define NDies 5
@@ -233,7 +233,9 @@ long int bin_packing(int *particle_info, int index, int genaration)
 	{
 		tam_index[i] = (int)(particle_info[i] * tam_testtime[i].no_of_tam);
 	}*/
-	float voltage_levels[5] =  {1, 0.9, 0.8, 0.7, 0.6};
+	//float voltage_levels[5] =  {1, 0.9, 0.8, 0.7, 0.6};
+	// lets keep voltage levels same
+	float voltage_levels[5] =  {1, 1, 1, 1, 1};
 	// particle info is a 93 bit 0 and 1 combination
 	for(int i = 0; i< SIZE; i++)
 	{
@@ -442,10 +444,10 @@ long int bin_packing(int *particle_info, int index, int genaration)
 						
 						
 					}
-				}
+				} // if schedule kk is zero
 			
 				
-			}
+			}// kk loop stops here
 			
 			if (flag == 0)
 			{
@@ -892,6 +894,7 @@ int particle_swarm_optimization()
 	for (int i=0;i<( NO_OF_PARTICLES  ); )
 	{
 			//printf("not ok now particle number %d\n" ,i);
+			if(i%500 == 0)
 			cout << "particle no " << i << endl;
     		initialiseparticle(partarray[i]);
     		//cout << i << " " << partarray[i].lbesttime << endl;
@@ -1219,7 +1222,11 @@ int main(int argc, char *argv [ ])
 	power_budget = atof (argv[2]);
         //TAM_WIDTH_MAX = atoi ( argv [ 3 ] ) ;
         int iteration;
+    cout << power_budget << "is the power_budget" << endl;
 
+    cout << TSV_MAX << " is TSV_MAX " << endl;
+
+    cout << TAM_WIDTH_MAX << "is TAM_WIDTH_MAX " << endl;
 	long int t,mint;
 	
 	FILE *tamread;

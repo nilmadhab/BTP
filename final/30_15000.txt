@@ -1,0 +1,3 @@
+test started iteration 0
+inside pso nil 
+particle no 0
