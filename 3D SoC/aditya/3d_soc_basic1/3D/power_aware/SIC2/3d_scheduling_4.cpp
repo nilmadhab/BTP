@@ -5,12 +5,19 @@
 # include <time.h>
 
 # include "iolist.h"
+#define TAM_WIDTH_MAX 50
+#define BIT_LENGTH 6
+#define TSV_MAX 70
+#define NCores 5
+#define HARD_DIE_TEST 0
+#define TAM {46,25,46,12,46}
+#define TAMSUM 175
 
 #define SIZE NCores
 #define LARGENUMBER 999999999
 //5000 10000
-#define  NO_OF_PARTICLES 100
-#define  MAX_ITERATION 100
+#define  NO_OF_PARTICLES 3
+#define  MAX_ITERATION 3
 #define ALPHA 0.1
 #define BETA 0.1
 #define  GAMMA 0.2
@@ -282,7 +289,8 @@ long int bin_packing(int *particle_info, int index, int genaration)
 				if(schedule_index[kk] == 0 )
 				{
 					
-					if (available_tam_width[jj] >= assigned_tam[kk] && available_power_left[jj] >= assigned_peak_power[kk])
+					if (available_tam_width[jj] >= assigned_tam[kk] 
+						&& available_power_left[jj] >= assigned_peak_power[kk])
 					{
 						int parallel_index[SIZE];
 						int finish_index[SIZE];

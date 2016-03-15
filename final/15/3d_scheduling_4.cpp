@@ -5,7 +5,7 @@
 # include <time.h>
 #include <iostream>
 using namespace std;
-#define TAM_WIDTH_MAX 50
+#define TAM_WIDTH_MAX 31
 #define BIT_LENGTH 4
 #define TSV_MAX 140
 #define NCores 5
@@ -201,10 +201,10 @@ long int bin_packing(int *particle_info, int index, int genaration)
 		testtime[i] = tam_testtime[i].testtime_list[tam_index[i]];
 		area[i] = assigned_tam[i] * testtime[i];
 	}
-	cout << "assigned_tam and testime" << endl;
+	cout << "assigned_tam and testime and area" << endl;
 	for (int i = 0; i < SIZE; ++i)
 	{
-		cout << assigned_tam[i] << " " << testtime[i] << endl;
+		cout << assigned_tam[i] << " " << testtime[i] << " " << area[i] << endl;
 	}
 	//printf("\n i am here\n");
 	for(int i = 0; i< SIZE; i++)
@@ -225,17 +225,37 @@ long int bin_packing(int *particle_info, int index, int genaration)
 	long int schedule_start_time = 0;
 	while (no_of_core_scheduled < SIZE)
 	{
+		cout << "schedulerInfo "  << endl;
+		for (int i = 0; i < SIZE; ++i)
+		{
+			cout << scheduler[index][i].corenum <<" " << scheduler[index][i].tam_width << " " << scheduler[index][i].starttime << " " << scheduler[index][i].endtime << endl;
+			
+		}
 		int flag = 1;
 		cout << "no_of_core_scheduled " << no_of_core_scheduled << "**********************" << endl;
 		while(flag ==1)
 		{
+			cout << "schedulerInfo "  << endl;
+		for (int i = 0; i < SIZE; ++i)
+		{
+			cout << scheduler[index][i].corenum <<" " << scheduler[index][i].tam_width << " " << scheduler[index][i].starttime << " " << scheduler[index][i].endtime << endl;
+			
+		}
+
+		cout << "available_tam_width " << endl;
+		for (int i = 0; i < SIZE; ++i)
+		{
+			cout <<  available_tam_width[i] << " " ;
+			
+		}
+		cout << endl;
 			cout << "flag is still 1 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^" << endl;
 			max_weightage = 0;
 			min_weightage = LARGENUMBER;
 			flag = 0;
 			int jj = 0;
 			schedule_start_time = break_point[jj];
-			
+			// all break points are shifted in the left
 			int current_layer_tsv[SIZE-1];
 			if(session)
 			{
@@ -245,12 +265,15 @@ long int bin_packing(int *particle_info, int index, int genaration)
 			for (int kk = 0; kk< SIZE; kk++)
 			{
 				// check out the current layer tsv in each iteration
-				/*cout << "kk is now " << kk  << "++++++++++++"<< endl;
+				cout << "kk is now " << kk  << "++++++++++++"<< endl;
 				cout << "schedule_index" << endl;
 				for (int i = 0; i < SIZE; ++i)
 				{
 					cout << schedule_index[i] << " " ;
-				}*/
+				}
+				// two loops means which unscheduled cores can be scheduled parallely
+					// with the already scheduled core
+				// time complexity n*n
 				cout << endl;
 				// initially all index are 0
 				if(schedule_index[kk] == 0 )
@@ -287,7 +310,7 @@ long int bin_packing(int *particle_info, int index, int genaration)
 									}
 								}
 								
-							}
+							} // if already scheduled
 							
 							
 							
@@ -372,7 +395,7 @@ long int bin_packing(int *particle_info, int index, int genaration)
 							}
 							sum = sum + temp_layer_tsv[pp];
 						}
-						//printf("TSV sum is  used : %d\n", sum);
+						printf("TSV sum is  used : %d\n", sum);
 						if(sum <= TSV_MAX || tsv_count == 0)
 						{
 							//if(session == 1 || tsv_count == 0)
@@ -399,8 +422,8 @@ long int bin_packing(int *particle_info, int index, int genaration)
 						
 
 						
-					}
-				}
+					}// if there is available tam
+				} // if schedule index[kk] is unscheduled
 			
 				
 			}// kk loop ends here
@@ -464,6 +487,7 @@ long int bin_packing(int *particle_info, int index, int genaration)
 			cout << "insert index "<< insert_index << endl;
 			//inserting breakpoint
 			//insert_index = number_of_brk;
+			// shifting everything in left
 			for (int i = number_of_brk; i>= insert_index; i--)
 				available_tam_width[i] = available_tam_width[i-1];	
 			// what the fuck happening here ?
@@ -495,6 +519,7 @@ long int bin_packing(int *particle_info, int index, int genaration)
 		int no_of_latest_scheduled_core = 0;
 		int temp1;
 		long int temp2;
+		// latest means which cores are scheduled at break point 0
 		for(int i = 0; i< SIZE; i++)
 		{
 			//if(schedule_index[scheduler [index][i].corenum] == 1)
